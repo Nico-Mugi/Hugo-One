@@ -19,7 +19,7 @@ enableEmoji=true
 [params]
 	author = "Melly Mellow"
 	description = "Mugi : I'm just trying some stuff for myself (and my GF aswell)."
-	avatar = "https://raw.githubusercontent.com/UtkarshVerma/blog/source/static/images/myavatar.jpg"
+	avatar = "/img/AvatarFav.png"
 	motto = "Balade-toi sur le chemin et viens explorer mon univers !"
 	enableToc = true
 	enableShareCard = true
