@@ -368,7 +368,8 @@ ul > li {
 }
 
 .post-content pre code {
-  font-family: 'Inconsolata';
+  font-family: 'Arial';
+  /*font-family: 'Inconsolata';*/
   font-size: 1.2em;
   background-color: unset;
   padding: initial;
