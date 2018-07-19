@@ -2,7 +2,7 @@ baseURL = "https://ecstatic-bhaskara-7ad47b.netlify.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Next Noemy's Blog ??"
-theme = "dream-plus"
+theme = "Hugo-One"
 themesDir = "../../"   #Don't use this, only for netlify
 
 pygmentsCodeFences = true
