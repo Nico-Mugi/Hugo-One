@@ -1,5 +1,5 @@
 ---
-title: "Eloge d'un premier Amour"
+title: "Eloge d\'un premier Amour"
 date: 2017-12-05T14:28:40+05:30
 draft: false
 tags:
