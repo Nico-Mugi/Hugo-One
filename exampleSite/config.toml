@@ -29,7 +29,7 @@ enableEmoji=true
   	#Background settings
 	enableColorBG= false
 	bgBlur = "0px"
-	bgImage = "/img/default3.jpg"
+	bgImage = "/img/BGFeminism.png"
   
 	#Post-displaying Settings
 	enableTags = true
