@@ -1,7 +1,7 @@
 baseURL = "http://dream-plus.netlify.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "UtkarshVerma's Blog"
+title = "Next Noemy's Blog ??"
 theme = "dream-plus"
 themesDir = "../../"   #Don't use this, only for netlify
 
