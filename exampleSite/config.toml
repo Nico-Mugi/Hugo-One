@@ -29,7 +29,7 @@ enableEmoji=true
   	#Background settings
 	enableColorBG= false
 	bgBlur = "0px"
-	bgImage = "http://bit.ly/2gPLxZ4"
+	bgImage = "/img/default3.jpg"
   
 	#Post-displaying Settings
 	enableTags = true
