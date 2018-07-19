@@ -17,7 +17,7 @@ enableRobotsTXT = true
 enableEmoji=true
 
 [params]
-	author = "Utkarsh Verma"
+	author = "Mugi"
 	description = "Just a random blog for random stuff, mostly tech-related."
 	avatar = "https://raw.githubusercontent.com/UtkarshVerma/blog/source/static/images/myavatar.jpg"
 	motto = "A keen maker, programmer and an Instructables author."
