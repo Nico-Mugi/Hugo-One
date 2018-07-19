@@ -5,7 +5,7 @@ tags:
 - google code in
 - openwisp
 categories:
-- blogging
+- bloggingggggg
 description : "My experiences with Google Code-in 2017 and OpenWISP."
 cover : "https://raw.githubusercontent.com/UtkarshVerma/blog/source/static/images/gci/gci-thumb.png"
 draft: false
