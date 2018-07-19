@@ -9,6 +9,8 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 pygmentsOptions = "linenos=table"
 
+preserveTaxonomyNames = true
+
 disqusShortname = "dream-plus"
 
 enableRobotsTXT = true
