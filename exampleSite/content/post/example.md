@@ -64,7 +64,7 @@ L'amour déchaîne les foules. Elle provoque la curiosité, la jalousie, l'envie.
 
 On ne sait pas être raisonnable.
 
-//" Généralement, ceux qui aiment ne veulent jamais souffrir. L'artiste le dit si bien dans cette chanson, vous n'aimez pas véritablement quand vous ne pleurez pas. C'est aussi cela, le droit d'aimer. Il ne s'agit pas de se laisser souffrir, mais de ressentir l'amour dans tout son sens. Certains l'ont compris, et en sont épanouis. S'il vous arrive de verser quelques larmes pour la personne que vous aimez, alors sachez que vous aimez véritablement. Sachez que vous avez ce droit d'aimer ".  Édith Piaf- C'est l'amour.//
+//" Généralement, ceux qui aiment ne veulent jamais souffrir. L'artiste le dit si bien dans cette chanson, vous n'aimez pas véritablement quand vous ne pleurez pas. C'est aussi cela, le droit d'aimer. Il ne s'agit pas de se laisser souffrir, mais de ressentir l'amour dans tout son sens. Certains l'ont compris, et en sont épanouis. S'il vous arrive de verser quelques larmes pour la personne que vous aimez, alors sachez que vous aimez véritablement. Sachez que vous avez ce droit d'aimer ".  édith Piaf- C'est l'amour.//
 
 Je suis amoureuse du sentiment d'aimer. Je suis amoureuse d'être amoureuse.
 
@@ -73,7 +73,7 @@ La nature complexe et difficile de l'amour fait que des clichés sont apparus que
 Le fameux " je t'aime pour toujours ".  Je ne suis pas amère quand je dis ça, au contraire, j'y ai cru. On a tous des rêves et pourquoi pas celui d'être aimé toute une vie ? On dit souvent : " tu as le temps, tu as toute ta vie " qu'il ne faut pas rester qu'avec une seule personne qu'on a encore pleins de choses à découvrir autre que l'amour, qu'on est jeune mais pourquoi pas faire des expériences ? et si ça dure tant mieux sinon tant pis. Mais être heureux à l'instant T c'est tout ce qui compte non ? Bien qu'on aimerait tous que ce soit pour la vie. Mais aimer une seule personne toute une vie ? Est-ce naturel ? sain ? Sujet vaste et discutable.
 
 # Petit mot important
-Éloge : " discours écrit ou prononcé à la louange de quelqu'un, de quelque chose ".
+éloge : " discours écrit ou prononcé à la louange de quelqu'un, de quelque chose ".
 
 Rempli de sentiments, faisant que ce discours en question n'est pas objectif, pas réel, sublimé d'une certaine manière. Tel un jeune enfant les yeux brillant d'admiration face aux récits qu'on lui fait.
 
