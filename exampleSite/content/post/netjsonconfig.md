@@ -6,7 +6,7 @@ tags:
 - openwisp
 - django
 categories:
-- programming
+- programmingggg
 description : "The challenges which I faced while installing and using **django-netjsonconfig**. "
 cover: "https://raw.githubusercontent.com/UtkarshVerma/blog/source/static/images/netjsonconfig/django2.png"
 draft: false
