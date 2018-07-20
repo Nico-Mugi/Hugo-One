@@ -1,7 +1,7 @@
 baseURL = "https://ecstatic-bhaskara-7ad47b.netlify.com/"
 languageCode = "fr"
 defaultContentLanguage = "fr"
-title = "Next Noemy's Blog ??"
+title = "Next Mug's Blog ??"
 theme = "Hugo-One"
 themesDir = "../../"   #Don't use this, only for netlify
 
