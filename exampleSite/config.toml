@@ -26,10 +26,10 @@ enableEmoji=true
 
 	favicon = "/img/AvatarFav.png"
   	
-  	#Background settings
-	enableColorBG= false
+  	#Background settings 
+	enableColorBG = false
 	bgBlur = "0px"
-	bgImage = "/img/BGFeminism.png"
+	bgImage = "/img/bg1.jpeg "
   
 	#Post-displaying Settings
 	enableTags = true

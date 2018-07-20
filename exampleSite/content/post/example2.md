@@ -6,6 +6,6 @@ cover: "/img/default2.jpg"
 draft: false
 categories: ["category1"]
 tags: ["tag1", "tag2"]
-description: 
+description:
 ---
 ééééààààààààazze
