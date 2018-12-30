@@ -1,5 +1,5 @@
 ---
-title: "Exampleee"
+title: "Examplee"
 date: 2018-07-20T12:02:31+02:00
 lastmod: 2018-07-20T12:02:31+02:00
 cover: "/img/default3.jpg"
