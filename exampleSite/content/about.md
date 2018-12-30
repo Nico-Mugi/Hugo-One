@@ -3,6 +3,7 @@
 ----
 <br>
 Je suis un jeune homme de 19 ans qui adore **programmer**, **écrire des histoires** et **écrire plein de trucs en gras**.
+
 I feel the inner urge to contribute something to the Internet because I love writing and I believe posting something online enables users all around the globe to see your work and suggest improvements.
 
 Recently I've also started taking interest in web designing and hosting the fruitful results of which these site and blogs are! I also make **projects** and share them online at **Instructables**, the link of which has been placed on the home page. Making stuff is just one of the things I love the most.
