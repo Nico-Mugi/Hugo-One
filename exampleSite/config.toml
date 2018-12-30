@@ -5,7 +5,7 @@ title = "Blog de Mugi"
 theme = "Hugo-One"
 themesDir = "../../"   #Don't use this, only for netlify
 
-preserveTaxonomyNames = true
+RemovePathAccents = false
 
 pygmentsCodeFences = true
 pygmentsUseClasses = true
