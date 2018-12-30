@@ -1,7 +1,7 @@
 ---
 title: "Prologue"
 date: 2018-12-30T19:48:00+02:00
-lastmod: 2018-12-30T20:22:00+02:00
+lastmod: 2018-12-30T20:28:00+02:00
 cover: "/img/default1.jpg"
 draft: false
 categories: 
