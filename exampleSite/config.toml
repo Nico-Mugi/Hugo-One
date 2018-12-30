@@ -5,6 +5,8 @@ title = "Blog de Mugi"
 theme = "Hugo-One"
 themesDir = "../../"   #Don't use this, only for netlify
 
+preserveTaxonomyNames = true
+
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 pygmentsOptions = "linenos=table"
