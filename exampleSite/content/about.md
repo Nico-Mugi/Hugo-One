@@ -3,6 +3,7 @@
 ----
 <br>
 Je suis un jeune homme de 19 ans qui adore **programmer**, **écrire des histoires** et **écrire plein de trucs en gras**.
+Faudra que je modifie ce qui suit.
 
 I feel the inner urge to contribute something to the Internet because I love writing and I believe posting something online enables users all around the globe to see your work and suggest improvements.
 

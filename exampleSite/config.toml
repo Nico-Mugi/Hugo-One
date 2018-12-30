@@ -1,11 +1,9 @@
 baseURL = "https://mugiwara2.netlify.com/"
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "fr"
+defaultContentLanguage = "fr"
 title = "Blog de Mugi"
 theme = "Hugo-One"
 themesDir = "../../"   #Don't use this, only for netlify
-
-RemovePathAccents = false
 
 pygmentsCodeFences = true
 pygmentsUseClasses = true
@@ -20,9 +18,9 @@ enableEmoji=true
 
 [params]
 	author = "Mugi"
-	description = "Mugi : I'm just trying some stuff for myself (and my GF aswell)."
+	description = "Mugi : I'm just trying some stuff for myself."
 	avatar = "/img/AvatarFav.png"
-	motto = "<p>Je vais postééé &agrave; &agrave; sur ce site ma nouvelle : Baks</p>"
+	motto = "Je vais poster sur ce site ma nouvelle : Baks"
 	enableToc = true
 	enableShareCard = true
 
