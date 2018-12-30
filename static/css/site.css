@@ -1,22 +1,22 @@
 /*Fonts*/
 @font-face {
   font-family: 'Abril Fatface';
-     src: url('../fonts/Roboto-Regular.otf') format('opentype');
+     src: url('../fonts/AbrilFatface-Regular.otf') format('opentype');
 }
 
 @font-face {
   font-family: 'Bebas Neue';
-     src: url('../fonts/Roboto-Regular.otf') format('opentype'), url('../fonts/Roboto-Regular.otf') format('truetype');
+     src: url('../fonts/BebasNeue Regular.otf') format('opentype'), url('../fonts/BebasNeue Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Droid Serif Italic';
-     src: url('../fonts/Roboto-Regular.otf') format('truetype');
+     src: url('../fonts/DroidSerif-Italic.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Inconsolata';
-     src: url('../fonts/Roboto-Regular.otf') format('opentype');
+     src: url('../fonts/Inconsolata.otf') format('opentype');
 }
 /*Computer view*/
 @media screen and (min-width: 991px) {
@@ -368,7 +368,7 @@ ul > li {
 }
 
 .post-content pre code {
-  font-family: Arial;
+  font-family: 'Inconsolata';
   font-size: 1.2em;
   background-color: unset;
   padding: initial;
