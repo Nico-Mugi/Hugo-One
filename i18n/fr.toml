@@ -8,7 +8,7 @@ other = "A propos"
 other = "Accueil"
 
 [prevPage]
-other = "Page précédente"
+other = "Page precedente"
 
 [nextPage]
 other = "Page suivante"
@@ -17,13 +17,13 @@ other = "Page suivante"
 other = "A propos de moi"
 
 [clickToPopTagsAndCategories]
-other = "Cliquer ici pour faire apparaître les tags et les categories"
+other = "Cliquer ici pour faire apparaitre les tags et les categories"
 
 [updateAt]
-other = "Dernière mise à jour le"
+other = "Derniere mise à jour le"
 
 [returnHome]
-other = "Retour à l'accueil"
+other = "Retour a l'accueil"
 
 [noTag]
 other = "Aucun Tag"
