@@ -8,7 +8,7 @@ categories:
 - Baks
 tags: 
 - Prologue
-description: Prologue  &agrave; &agrave; &agrave; &agrave;
+description: Prologue  &agrave; &agrave; &agrave; &agrave; àééé
 ---
 Le massacre de l'URSS c'est ainsi qu'est surnommé l'événement que je vais vous compter et qui n'est raconté dans aucun livre d'histoire des pays occidentaux.
   &agrave; &agrave;
