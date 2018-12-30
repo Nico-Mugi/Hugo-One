@@ -1,7 +1,7 @@
 baseURL = "https://mugiwara2.netlify.com/"
-languageCode = "fr"
-defaultContentLanguage = "fr"
-title = "Next Mug's Blog ??"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Mug's blog"
 theme = "Hugo-One"
 themesDir = "../../"   #Don't use this, only for netlify
 
@@ -17,10 +17,10 @@ enableRobotsTXT = true
 enableEmoji=true
 
 [params]
-	author = "Melly Mellow"
+	author = "Mugi"
 	description = "Mugi : I'm just trying some stuff for myself (and my GF aswell)."
-	avatar = "/img/avatarPrincipal.jpg"
-	motto = "Balade-toi sur le chemin et viens explorer mon univers !"
+	avatar = "/img/AvatarFav.png"
+	motto = "Je vais poster sur ce site ma nouvelle : Baks"
 	enableToc = true
 	enableShareCard = true
 
@@ -45,9 +45,9 @@ enableEmoji=true
 	twitterEmoji=true
 
 [social]
-	email = "utkarshverma@pm.me"
-	github = "UtkarshVerma"
-	stackoverflow = "9271608/utkarsh-verma"
-	medium = "UtkarshVerma_"
-	twitter = "UtkarshVerma_" 
+	email = "nico.thouvenin13@gmail.com"
+	github = "Nico-Mugi"
+	stackoverflow = "None"
+	medium = "None"
+	twitter = "None" 
 	siteStartYear = 2018
