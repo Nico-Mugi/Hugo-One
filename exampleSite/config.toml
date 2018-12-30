@@ -1,6 +1,6 @@
 baseURL = "https://mugiwara2.netlify.com/"
-languageCode = "fr"
-defaultContentLanguage = "fr"
+languageCode = "en"
+defaultContentLanguage = "en"
 title = "Blog de Mugi"
 theme = "Hugo-One"
 themesDir = "../../"   #Don't use this, only for netlify
