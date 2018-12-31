@@ -4,8 +4,7 @@ date: 2018-12-31T00:44:48+01:00
 lastmod: 2018-12-31T00:44:48+01:00
 cover: "/img/default1.jpg"
 draft: false
-categories: "Baks-Acte-1"
-tags: Baks
+categories: "Acte-1"
 description: Leadership
 ---
 _Lieu : Océan Atlantique - Sur le navire principal - Bureau de l'amiral  

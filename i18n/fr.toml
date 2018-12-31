@@ -27,7 +27,7 @@ other = "Dernière mise à jour le"
 other = "Retour à la page principale"
 
 [noTag]
-other = "Aucun Tag"
+other = " "
 
 [archives]
 other = "Archive"

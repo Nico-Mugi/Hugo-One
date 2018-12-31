@@ -760,6 +760,7 @@ p > img:not(.emoji), li > img {
   z-index: 0;
   background-repeat: no-repeat;
   background-size: cover;
+  /*ORIGINAL: background-size: cover;*/
 }
 
 .blog-card:hover {

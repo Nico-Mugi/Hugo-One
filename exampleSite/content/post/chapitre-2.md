@@ -2,10 +2,9 @@
 title: Chapitre 2
 date: 2018-12-31T00:20:15+01:00
 lastmod: 2018-12-31T00:20:15+01:00
-cover: "/img/default1.jpg"
+cover: "/img/2.jpg"
 draft: false
-categories: "Baks-Acte-1"
-tags: Baks
+categories: "Acte-1"
 description: Prisonnier
 ---
 _Lieu : Large de la côte Est étasunienne - Sur un navire de guerre de la Navy  

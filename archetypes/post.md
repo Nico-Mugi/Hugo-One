@@ -4,8 +4,7 @@ date: {{ .Date }}
 lastmod: {{ .Date }}
 cover: "/img/default1.jpg"
 draft: true
-categories: "Baks-Acte-1"
-tags: Baks
+categories: "Acte-2"
 description: Titre du chap
 ---
 _Lieu :   

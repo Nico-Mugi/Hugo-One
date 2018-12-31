@@ -2,10 +2,9 @@
 title: Chapitre 1
 date: 2018-12-30T23:50:54+01:00
 lastmod: 2018-12-30T23:50:54+01:00
-cover: "/img/default1.jpg"
+cover: "/img/1.jpg"
 draft: false
-categories: "Baks-Acte-1"
-tags: Baks
+categories: "Acte-1"
 description: Arrivée
 ---
 _Lieu : Large de la côte Est étasunienne - Sur un navire de guerre de la Navy  

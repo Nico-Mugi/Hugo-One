@@ -32,11 +32,11 @@ enableEmoji=true
 	bgImage = "/img/bg1.jpeg "
   
 	#Post-displaying Settings
-	enableTags = true
+	enableTags = false
 	enableCategories = true
 
 	#Cards or posts shown per page
-	itemsPerPage = 4
+	itemsPerPage = 10
 
 	#Set whether you're hosting "cards" or "post"
 	contentType = "post"
@@ -47,6 +47,5 @@ enableEmoji=true
 [social]
 	email = "nico.thouvenin13@gmail.com"
 	github = "Nico-Mugi"
-	facebook = "nicolas.thouvenin.108"
 	linkedin = "nicolas-thouvenin-2844ba150"
 	siteStartYear = 2018
