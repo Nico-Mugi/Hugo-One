@@ -4,6 +4,9 @@ other = "的博客"
 [aboutHeader]
 other = "关于"
 
+[minRead]
+other = "mins read"
+
 [home]
 other = "首页"
 

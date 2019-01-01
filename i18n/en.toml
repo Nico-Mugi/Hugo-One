@@ -8,6 +8,9 @@ other = "About"
 [home]
 other = "Home"
 
+[minRead]
+other = " read"
+
 [prevPage]
 other = "Previous page"
 

@@ -5,6 +5,9 @@ other = " blog"
 [aboutHeader]
 other = "A propos"
 
+[minRead]
+other = " de lecture"
+
 [home]
 other = "Accueil"
 

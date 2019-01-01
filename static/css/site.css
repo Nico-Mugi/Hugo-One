@@ -281,6 +281,11 @@ li:not('.toc') {
   float: right;
 }
 
+.ui.label.prec.empty{
+  visibility: hidden;
+}
+/*pour régler le pb du float right avec parent sans size définie*/
+
 ul > li {
   margin-bottom: 0.2rem;
 }
