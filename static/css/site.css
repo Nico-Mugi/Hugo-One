@@ -285,6 +285,15 @@ li:not('.toc') {
 }
 /*pour régler le pb du float right avec parent sans size définie*/
 
+.ui.label.suiv, .ui.label.prec{
+  background-color: #bbc0ba;
+}
+
+.ui.label.suiv:hover, .ui.label.prec:hover{
+  background-color: #d4d4d5;
+  transition: 0.5s;
+}
+
 ul > li {
   margin-bottom: 0.2rem;
 }
