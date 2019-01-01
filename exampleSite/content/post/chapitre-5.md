@@ -6,6 +6,7 @@ cover: "/img/default1.jpg"
 draft: false
 categories: "Acte-1"
 description: Tournoi
+urlImg : "www.youtube.com/artworktavu"
 ---
 _Lieu :  Océan Atlantique - Sur le navire principal - Cafétéria  
 Date : 11 décembre 2011 - 13h00_
