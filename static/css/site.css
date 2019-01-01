@@ -70,7 +70,6 @@
     width: calc(100% - 2rem);
     margin-right: auto !important;
     margin-left: auto !important;
-
   }
 
   .pusher::-webkit-scrollbar {

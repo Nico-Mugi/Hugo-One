@@ -44,6 +44,9 @@ enableEmoji=true
 	#Enable Twitter Emoji
 	twitterEmoji=true
 
+	copyright = ["BY-NC-ND", "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License."]
+
+
 [social]
 	email = "nico.thouvenin13@gmail.com"
 	github = "Nico-Mugi"
