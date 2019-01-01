@@ -60,11 +60,11 @@
 			{{ end }}
 		</section>
 		-->
+		{{if .Params.UrlImg}}
 		<section class="ui secondary attached segment">
-			{{if .Params.UrlImg}}
-			Lien vers l'artwork utiliser comme illustration : <a href="{{.Params.urlImg}}">{{.Params.urlImg}}</a>
-			{{end}}
+			Lien vers l'artwork utiliser comme illustration : <a href="{{index .Params.urlImg 0}}://{{index .Params.urlImg 1}}" title="{{index .Params.urlImg 1}}">{{index .Params.urlImg 1}}</a>
 		</section>
+		{{end}}
 		{{- if .Site.Params.enableShareCard -}}
 		<section class="ui secondary {{ if not .Site.DisqusShortname }}bottom{{ end }} attached segment share row box">
 			{{- partial "share.html" . -}}

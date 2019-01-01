@@ -2,7 +2,7 @@
 title: Prologue
 date: 2018-12-30T23:48:30+01:00
 lastmod: 2018-12-30T23:48:30+01:00
-cover: "/img/prologue.jpeg"
+cover: "/img/prologue.jpg"
 draft: false
 categories: "Acte-0"
 description: Histoire
