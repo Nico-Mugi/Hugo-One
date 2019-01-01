@@ -62,7 +62,8 @@
 		-->
 		{{if .Params.UrlImg}}
 		<section class="ui secondary attached segment">
-			Lien vers l'artwork utiliser comme illustration : <a href="{{index .Params.urlImg 0}}://{{index .Params.urlImg 1}}" title="{{index .Params.urlImg 1}}">{{index .Params.urlImg 1}}</a>
+			Lien vers l'artwork utiliser comme illustration : <a href="{{index .Params.urlImg 0}}://{{index .Params.urlImg 1}}" title="{{index .Params.urlImg 1}}">
+			{{ index .Params.urlImg 1 | truncate 40 }}</a>
 		</section>
 		{{end}}
 		{{- if .Site.Params.enableShareCard -}}
