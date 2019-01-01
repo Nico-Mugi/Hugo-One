@@ -24,7 +24,7 @@ On entendit dans les hauts-parleurs disséminés partout dans les 5 navires :
 Gin reprit la discussion avec le silencieux Shelton :  
 - Nous allons effectuer la procédure complète avec le vice-amiral, en temps normal, je n'y prends pas part mais je vais faire une exception pour aujourd'hui. Vous aurez, bien entendu, vous aussi, le choix d'y participer ou non.  
 Sánchez apparut dans la salle, il devait avoir environ 40 ans, de taille moyenne et il avait un ventre assez imposant. Il était accompagné de deux autres marins, le premier portait un plateau repas avec un bout de pain rassis, de la purée et un verre d'eau, le second quant à lui tenait une pochette médicale. Tous les trois saluèrent les amiraux, Gin ré-ouvrit la porte et tous pénétrèrent dans la cellule, à l'exception de Shelton, qui lui resta devant la porte, bras croisés. Sánchez ordonna aux soldats armés de le garder en joue tandis que ceux arrivés avec lui doivent nourrir le prisonnier. La lutte commença.  
-
+     
 - Ouvre ta gueule, dit un soldat.  
 Baks n'eut pas de réaction, seul son regard devint vif et déterminé.  
 Le soldat réitéra sa phrase avec un ton de voix plus violent. Il tenta d'ouvrir sa bouche avec ses mains mais ne réussit qu'à faire apparaître une muraille de dents. Après 30 secondes à forcer l'un contre l'autre, Baks mordit son opposant et renforça son emprise au fur et à mesure que ce dernier se débattait. Sánchez enfonça dans la tempe du rebelle son plus beau coup droit, Baks eut la tête vacillante quelques instants et l'assaillant le traita de sale bête. Gin ricana, applaudit et cria en levant les bars :  

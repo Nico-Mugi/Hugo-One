@@ -277,6 +277,10 @@ li:not('.toc') {
   margin-bottom: 0.5rem;
 }
 
+.ui.label.suiv{
+  float: right;
+}
+
 ul > li {
   margin-bottom: 0.2rem;
 }

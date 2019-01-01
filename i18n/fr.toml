@@ -18,7 +18,7 @@ other = "Page suivante"
 other = "A propos de moi"
 
 [clickToPopTagsAndCategories]
-other = "Click this to pop tags and categories"
+other = "Cliquer ici pour afficher ou cacher les categories"
 
 [updateAt]
 other = "Dernière mise à jour le"
@@ -27,7 +27,7 @@ other = "Dernière mise à jour le"
 other = "Retour à la page principale"
 
 [noTag]
-other = " "
+other = "Aucun Tag"
 
 [archives]
 other = "Archive"

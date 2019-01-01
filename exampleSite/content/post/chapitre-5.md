@@ -7,7 +7,7 @@ draft: false
 categories: "Acte-1"
 description: Tournoi
 ---
-_Lieu :  Océan Atlantique - Sur le navire principal - Cafétéria
+_Lieu :  Océan Atlantique - Sur le navire principal - Cafétéria  
 Date : 11 décembre 2011 - 13h00_
 
 Liam est debout sur une table au milieu de la cafétéria, un micro à la main :  

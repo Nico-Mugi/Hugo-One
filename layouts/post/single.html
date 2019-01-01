@@ -16,11 +16,11 @@
 				{{ .Title }} - {{ .Description }}
 			</h1>
 			<div class="sub header">
-					<div><span><i class="calendar outline icon"></i>{{ .Date.Format "Jan 2, 2006" }}</span></div>
+					<div><span><i class="calendar outline icon"></i>{{ .Date.Format "2 Jan 2006" }}</span></div>
 					{{- if .Site.DisqusShortname -}}
 					<div><span class="disqusComment"><i class="comment outline icon"></i><a href="{{ .Permalink }}#disqus_thread" class="disqus-comment-count" data-disqus-identifier="{{ .UniqueID }}"></a></span></div>{{- end }}
 					<div><span><i class="clock outline icon"></i>{{ .ReadingTime }} min read</span></div>
-					<div><span><i class="angle double up icon"></i>{{ i18n "updateAt" }} {{ dateFormat "Jan 2, 2006" .Lastmod }}</span></div>
+					<div><span><i class="angle double up icon"></i>{{ i18n "updateAt" }} {{ dateFormat "2 Jan 2006" .Lastmod }}</span></div>
 			</div>
 			<hr>
 			{{- if .Site.Params.enableToc -}}
@@ -34,6 +34,16 @@
 				{{ partial "anchor.html" .Content }}
 			</article>
 		</section>
+		<section class="ui secondary attached segment">
+			<!--<a class="ui label" href="{{ .Params.urlImg }}" title="Lien vers l'artwork">Lien vers l'artwork</a>-->
+			{{if .PrevInSection}}
+			<a class="ui label prec" href="{{.PrevInSection.Permalink}}" title="Chapitre précédent">Chapitre précédent</a>
+			{{end}}
+			{{if .NextInSection}}
+			<a class="ui label suiv" href="{{.NextInSection.Permalink}}" title="Chapitre suivant">Chapitre suivant</a>
+			{{end}}
+		</section>
+		<!--
 		<section class="ui secondary attached segment dream-tags">
 			{{- if isset .Params "tags" -}}
 				{{- partial "tags.html" . -}}				
@@ -41,6 +51,7 @@
 			<span>{{ i18n "noTag" }}</span>
 			{{ end }}
 		</section>
+		-->
 		{{- if .Site.Params.enableShareCard -}}
 		<section class="ui secondary {{ if not .Site.DisqusShortname }}bottom{{ end }} attached segment share row box">
 			{{- partial "share.html" . -}}
