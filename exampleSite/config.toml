@@ -12,6 +12,7 @@ pygmentsOptions = "linenos=table"
 disqusShortname = "mugiwara2"
 
 enableRobotsTXT = true
+enableGitInfo = true
 
 #Enable Hugo Emoji Conversion
 enableEmoji=true
@@ -48,7 +49,11 @@ enableEmoji=true
 
 	siteStartYear = 2018
 
+	youtubeName = "Nicolas Tvn"
+
 [social]
 	email = "nico.thouvenin13@gmail.com"
 	github = "Nico-Mugi"
 	linkedin = "nicolas-thouvenin-2844ba150"
+	facebook = "NicolasTvnn"
+	youtube = "UCf-IQVrTZ5X2iQOZooDXO7Q"

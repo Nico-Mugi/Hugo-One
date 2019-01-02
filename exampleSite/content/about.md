@@ -1,4 +1,4 @@
-﻿<h1>Mugi : Qui suis-je ?</h1>
+<h1>Mugi : Qui suis-je ?</h1>
 
 ----
 <br>
