@@ -2,10 +2,12 @@
 title: Chapitre 4
 date: 2018-12-31T00:44:48+01:00
 lastmod: 2018-12-31T00:44:48+01:00
-cover: "/img/default1.jpg"
+cover: "/img/4.jpg"
 draft: false
 categories: "Acte-1"
 description: Leadership
+artwork: true
+titleArt: "Martin Luther King Jr. speech <<I have a dream>>"
 ---
 _Lieu : Océan Atlantique - Sur le navire principal - Bureau de l'amiral  
 Date : 25 novembre 2011 - 06h10_

@@ -36,7 +36,7 @@ enableEmoji=true
 	enableCategories = true
 
 	#Cards or posts shown per page
-	itemsPerPage = 10
+	itemsPerPage = 8
 
 	#Set whether you're hosting "cards" or "post"
 	contentType = "post"

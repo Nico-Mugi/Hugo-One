@@ -60,10 +60,19 @@
 			{{ end }}
 		</section>
 		-->
-		{{if .Params.UrlImg}}
+		{{if .Params.Artwork}}
 		<section class="ui secondary attached segment">
-			Lien vers l'artwork utiliser comme illustration : <a href="{{index .Params.urlImg 0}}://{{index .Params.urlImg 1}}" title="{{index .Params.urlImg 1}}" target="_blank">
+			<h3>Illustration du chapitre : </h3>
+			{{if .Params.titleArt}}
+			<p>Titre : {{.Params.titleArt}}</p>
+			{{end}}
+			{{if .Params.Artist}}
+			<p>Artiste : {{.Params.Artist}}</p>
+			{{end}}
+			{{if .Params.urlImg}}
+			Lien : <a href="{{index .Params.urlImg 0}}://{{index .Params.urlImg 1}}" title="{{index .Params.urlImg 1}}" target="_blank">
 			{{ index .Params.urlImg 1 | truncate 40 }}</a>
+			{{end}}
 		</section>
 		{{end}}
 		{{- if .Site.Params.enableShareCard -}}

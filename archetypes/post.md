@@ -5,8 +5,11 @@ lastmod: {{ .Date }}
 cover: "/img/default1.jpg"
 draft: true
 categories: "Acte-1"
-description: Titre du chap
-urlImg : ["https", "www.youtube.com/artworktavu"]
+description: TitreChap
+artwork: false
+titleArt: Nom
+artist: Nom
+urlImg : ["https", "www.artwork.com/"]
 ---
 _Lieu :   
 Date : _

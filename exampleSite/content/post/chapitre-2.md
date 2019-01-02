@@ -6,6 +6,9 @@ cover: "/img/2.jpg"
 draft: false
 categories: "Acte-1"
 description: Prisonnier
+artwork: true
+titleArt: "Rotten to the core"
+artist: "Kawacy"
 urlImg : ["https", "www.deviantart.com/kawacy/art/Rotten-to-the-Core-627992819"]
 ---
 _Lieu : Large de la côte Est étasunienne - Sur un navire de guerre de la Navy  

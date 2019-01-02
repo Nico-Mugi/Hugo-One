@@ -6,6 +6,9 @@ cover: "/img/prologue.jpg"
 draft: false
 categories: "Acte-0"
 description: Histoire
+artwork: true
+titleArt: "<<D'accord monsieur le président, discutons.>> Caricature paru dans le Daily Mail le 29 octobre 1962"
+artist: "Leslie G. Illingworth"
 ---
 Le massacre de l'URSS c'est ainsi qu'est surnommé l'événement que je vais vous compter et qui n'est raconté dans aucun livre d'histoire des pays occidentaux.
 

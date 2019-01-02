@@ -2,10 +2,12 @@
 title: Chapitre 3
 date: 2018-12-31T00:20:20+01:00
 lastmod: 2018-12-31T00:20:20+01:00
-cover: "/img/default1.jpg"
+cover: "/img/3.jpg"
 draft: false
 categories: "Acte-1"
 description: Appel 
+artwork: true
+titleArt: "Pulp fiction - <<You're sending the Wolf ?>>"
 ---
 _Lieu : Océan Atlantique - Sur le navire principal  
 Date : 23 novembre 2011 - 17h26_

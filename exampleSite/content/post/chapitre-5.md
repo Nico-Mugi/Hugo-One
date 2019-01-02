@@ -2,10 +2,12 @@
 title: Chapitre 5
 date: 2018-12-31T00:46:27+01:00
 lastmod: 2018-12-31T00:46:27+01:00
-cover: "/img/default1.jpg"
+cover: "/img/5.jpg"
 draft: false
 categories: "Acte-1"
 description: Tournoi
+artwork: true
+titleArt: "Dragon Ball - World Martial Arts Tournament"
 ---
 _Lieu :  Océan Atlantique - Sur le navire principal - Cafétéria  
 Date : 11 décembre 2011 - 13h00_

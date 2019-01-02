@@ -25,7 +25,6 @@ $(document).ready(function() {
         $('.back').css('display','none')
       }, 300)
     }
-    $("html, body").animate({ scrollTop: 0 }, "slow");
   })  
 });
 

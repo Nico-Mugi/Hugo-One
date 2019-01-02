@@ -6,7 +6,10 @@ cover: "/img/1.jpg"
 draft: false
 categories: "Acte-1"
 description: Arrivée
-urlImg : ["https", "www.deviantart.com/kukuro-kun/art/Does-Jumin-Han-is-BAE-636692554"]
+artwork: true
+titleArt: "Jumin Han"
+artist: "Kukuro-Kun"
+urlImg: ["https", "www.deviantart.com/kukuro-kun/art/Does-Jumin-Han-is-BAE-636692554"]
 ---
 _Lieu : Large de la côte Est étasunienne - Sur un navire de guerre de la Navy  
 Date : 23 novembre 2011 - 09h47_
