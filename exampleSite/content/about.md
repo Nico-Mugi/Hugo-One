@@ -2,7 +2,7 @@
 
 ----
 <br>
-Je suis un jeune homme de 19 ans qui adore **programmer**, **écrire des histoires** et **mettre plein de trucs en gras**. :smile: Si vous êtes curieux d'en apprendre plus sur moi, utilisez les liens dans la barre de navigation pour pourvoir accéder à mes différents réseaux sociaux ! Sinon, voici une petite partie de ma vie. :book: :arrow_down:
+De mon vrai prénom, Nicolas, je suis un jeune homme de 19 ans qui adore **programmer**, **écrire des histoires** et **mettre plein de trucs en gras**. :smile: Si vous êtes curieux d'en apprendre plus sur moi, utilisez les liens dans la barre de navigation pour pourvoir accéder à mes différents réseaux sociaux ! Sinon, voici une petite partie de ma vie. :book: :arrow_down:
 
 J'ai commencé à programmer en 2014 avec des petits jeux en C puis j'ai enchaîné avec HTML/CSS en 2015, PHP et C++ en 2016. Avec notamment, les premiers essais sur mon site _discover-game.online_ qui était à la base un projet d'ISN en terminale avec deux camarades et que j'ai finit par reprendre en solo. Malheureusement aujourd'hui le site n'est plus en ligne mais promis un jour je reprends le dév de celui-ci parce que le projet était vraiment ambitieux, original et très instructif.
 
