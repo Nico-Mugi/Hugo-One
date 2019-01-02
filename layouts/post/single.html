@@ -62,7 +62,7 @@
 		-->
 		{{if .Params.UrlImg}}
 		<section class="ui secondary attached segment">
-			Lien vers l'artwork utiliser comme illustration : <a href="{{index .Params.urlImg 0}}://{{index .Params.urlImg 1}}" title="{{index .Params.urlImg 1}}">
+			Lien vers l'artwork utiliser comme illustration : <a href="{{index .Params.urlImg 0}}://{{index .Params.urlImg 1}}" title="{{index .Params.urlImg 1}}" target="_blank">
 			{{ index .Params.urlImg 1 | truncate 40 }}</a>
 		</section>
 		{{end}}
