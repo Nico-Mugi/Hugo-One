@@ -1,4 +1,4 @@
-<div class="author">
+<div class="author dream-flip-toggle" title="{{ i18n "flip" }}">
 	{{- if .Site.Params.avatar -}}
 	<img class="avatar" src="{{ .Site.Params.avatar }}">
 	{{ else }}
@@ -8,12 +8,9 @@
 </div>
 <div class="info grow flexbox"> 
 	{{- if .Site.Social.twitter -}}
-	<a href="https://twitter.com/{{ .Site.Social.twitter }}">
+	<a href="https://twitter.com/{{ .Site.Social.twitter }}">Twitter</a>
 	{{ end }}
-	<p class="name">{{ .Site.Params.author }}</p>
-	{{- if .Site.Social.twitter -}}
-	</a>
-	{{ end }}
+	<p class="name dream-flip-toggle" title="{{ i18n "flip" }}">{{ .Site.Params.author }}</p>
 	<p class="desc">{{ .Site.Params.motto }}</p>		
 </div>
 <section class="buttons row box">

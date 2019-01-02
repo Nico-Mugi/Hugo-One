@@ -488,6 +488,10 @@ p > img:not(.emoji), li > img {
   box-shadow: 0 0 0 0.1em #fff, 0 0 0 0.4rem #eee;
 }
 
+.dream-flip-toggle{
+  cursor: pointer;
+}
+
 .info {
   max-width: 60%;
   margin-left: 1em;
@@ -503,7 +507,7 @@ p > img:not(.emoji), li > img {
   transition: 1s;
 }
 
-.share .name:hover {
+.share .name:hover, .nameMenu:hover {
   text-decoration: underline;
 }
 

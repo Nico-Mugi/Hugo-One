@@ -1,4 +1,4 @@
-<div class="ui small circular image">
+<div class="ui small circular image dream-flip-toggle" title="{{ i18n "flip" }}">
 	{{- if .Site.Params.avatar }}
 	<img src="{{ .Site.Params.avatar }}">
 	{{- else -}}
@@ -7,6 +7,6 @@
 	{{- end }}
 </div>
 <h3 class="ui header">
-	{{- .Site.Params.author }}
+	<span class="nameMenu dream-flip-toggle" title="{{ i18n "flip" }}">{{- .Site.Params.author }}</span>
 	<div class="sub header">{{ .Site.Params.motto }}</div>
 </h3>
