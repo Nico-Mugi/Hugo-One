@@ -20,6 +20,9 @@ other = "Next page"
 [flip]
 other = "About Me"
 
+[flipFlip]
+other = "Return"
+
 [clickToPopTagsAndCategories]
 other = "Click this to pop tags and categories"
 

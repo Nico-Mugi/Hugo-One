@@ -20,6 +20,9 @@ other = "Page suivante"
 [flip]
 other = "A propos de moi"
 
+[flipFlip]
+other = "Retour"
+
 [clickToPopTagsAndCategories]
 other = "Cliquer ici pour afficher ou cacher les categories"
 

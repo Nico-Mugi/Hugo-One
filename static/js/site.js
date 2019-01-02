@@ -17,14 +17,15 @@ $(document).ready(function() {
         $('.back').css('display','block')
       }, 300) 
     }
-      else {
-        bodyBgSwitchIndex = 0      
-        target.toggleClass('flip-it')
-        setTimeout( function (){
-          $('.front').css('display','block')
+    else {
+      bodyBgSwitchIndex = 0      
+      target.toggleClass('flip-it')
+      setTimeout( function (){
+        $('.front').css('display','block')
         $('.back').css('display','none')
       }, 300)
     }
+    $("html, body").animate({ scrollTop: 0 }, "slow");
   })  
 });
 
