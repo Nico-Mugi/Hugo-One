@@ -51,6 +51,9 @@ enableEmoji=true
 
 	youtubeName = "Nicolas Tvn"
 
+	iconAbout = "user secret"
+	iconAboutReturn = "step backward"
+
 [social]
 	email = "nico.thouvenin13@gmail.com"
 	github = "Nico-Mugi"
