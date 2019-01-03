@@ -19,9 +19,9 @@ enableEmoji=true
 
 [params]
 	author = "Mugi"
-	description = "Baks"
+	description = "Je vais poster sur ce site ma nouvelle !"
 	avatar = "/img/AvatarMug.jpg"
-	motto = "Je vais poster sur ce site ma nouvelle : Baks"
+	motto = "Je vais poster sur ce site ma nouvelle !"
 	enableToc = true
 	enableShareCard = true
 
