@@ -23,7 +23,7 @@ Le capitaine Smith prit le pas vers le lieu de l'affrontement. C'était un homme
 - Bien-sûr, allons-y mon amiral.  
 
 Les deux hommes se dirigèrent vers la cafétéria qu'ils trouvèrent bondée, prirent deux verres de bières et un des matelots chargés du stand de boissons demanda au capitaine :  
-- Pour qui pariez-vous mon commandant ?  
+- Pour qui pariez-vous mon capitaine ?  
 - Je prends position pour l'amiral Shelton, celui-ci m'ayant battu en demi-finale, je pense qu'il a le plus de chances.  
 - Et vous mon amiral ?  
 - Je parie pour son opposant.  

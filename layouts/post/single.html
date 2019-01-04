@@ -36,6 +36,18 @@
 			</div>
 			{{ end }}
 			{{ end }}
+			{{if .Params.Music}}
+			<article>
+				<audio src="/music/{{.Params.Music}}.mp3" loop controls>
+					<embed 
+						src="/music/{{.Params.Music}}.mp3"
+						width="300"
+						height="90"
+						loop="true"
+						autostart="false">
+				</audio>
+			</article>
+			{{end}}
 			<article class="post-content twemoji">
 				{{ partial "anchor.html" .Content }}
 			</article>
@@ -64,7 +76,7 @@
 		<section class="ui secondary attached segment">
 			<h3>Illustration du chapitre : </h3>
 			{{if .Params.titleArt}}
-			<p>Titre : {{.Params.titleArt}}</p>
+			<p>Titre de l'image : {{.Params.titleArt}}</p>
 			{{end}}
 			{{if .Params.Artist}}
 			<p>Artiste : {{.Params.Artist}}</p>
@@ -72,6 +84,9 @@
 			{{if .Params.urlImg}}
 			Lien : <a href="{{index .Params.urlImg 0}}://{{index .Params.urlImg 1}}" title="{{index .Params.urlImg 1}}" target="_blank">
 			{{ index .Params.urlImg 1 | truncate 40 }}</a>
+			{{end}}
+			{{if .Params.Music}}
+			<p>Musique : {{.Params.Music}}</p>
 			{{end}}
 		</section>
 		{{end}}
