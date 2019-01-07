@@ -27,7 +27,7 @@ Nom : Inconnu
 Âge : Inconnu  
 Taille : 186 cm  
 Poids : 67 kg  
-Description physique : Cheveux noirs foncés et longs, yeux verts foncés"  
+Description physique : Cheveux noirs foncés et longs, yeux verts clairs"  
 - Aucun nom et aucun âge de renseigné ? Il n'y a même pas de photographie ? C'est quoi cette fiche inutile ? La raison de son incarcération n'est même pas précisée ! Bon j'espère que l'amiral Gin pourra me donner de vrais renseignements, ça me plaît pas d'avoir si peu de données pour ma mission. Bon, passons aux codes d'urgences :  
 "Voici la liste des différents codes à utiliser :  
 Vert : situation stable  
@@ -59,7 +59,7 @@ Ils passèrent une première porte et se retrouvèrent dans un couloir plus larg
 - Dans cette situation, les marins se mettent en alerte et s'arment. Le groupe appelé au micro par le sous-amiral se met en position dans ce passage pendant que les autres groupes attendent les ordres.  
 Ils arrivèrent devant une grande porte blindée, l'amiral Gin saisit un code sur une machine située sur la porte, de légers cliquetis se firent entendre et celle-ci s'ouvrit lentement. Derrière, un couloir semblable au précédent à l'exception de deux portes, la première, presque immédiatement sur la droite et la seconde au fin fond du couloir, à peine visible car mal éclairée, de laquelle émane une incroyable pression qui semble vouloir nous tuer si l'on approche plus.  
 
-Juste en face de la première porte, deux soldats armés en faction saluèrent les deux amiraux et dirent en cœur :  
+Juste en face de la première porte, deux soldats armés en faction saluèrent les deux amiraux et dirent en chœur :  
 - Mes respects mon amiral.  
 - Je vous présente mon successeur, l'amiral Shelton.  
 - Salut, les gars, enchanté, dit Shelton en saluant.  

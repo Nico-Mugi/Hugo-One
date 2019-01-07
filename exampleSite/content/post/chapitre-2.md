@@ -16,7 +16,7 @@ Date : 23 novembre 2011 - 11h37_
 
 Un terrible rugissement brise ce calme éphémère et pétrifie tous ses prédateurs. Après ce moment qui parut une éternité, ce cri à faire froid dans le dos cessa et le silence reprit ses droits.  
 Au fond de la cellule, assis et attaché au mur par les poignets, les chevilles et le cou, se trouve un jeune homme squelettique. Celui-ci doit être âgé d'environ une vingtaine d'années, ses cheveux noirs et extrêmement longs lui couvrent le visage, ne laissant paraître qu'un œil vert clair, emplit de peur.  
-Shelton s'avança prudemment dans la salle sombre, s'asseya face à Baks et commença à parler :  
+Shelton s'avança prudemment dans la salle sombre, s'assit face à Baks et commença à parler :  
 - Enchanté, je me présente, je m'appelle Liam Shelton, je suis le nouvel amiral de ce navire. J'espère que l'on pourra bien s'entendre.  
 Baks ne fit aucun son, aucun mouvement, bien qu'il avait son regard plongé dans celui de son interlocuteur, il n'avait aucune réaction. L'amiral Gin qui regardait la scène depuis l'autre pièce fit un léger rire narquois et dit à Shelton :  
 - Cela ne sert à rien d'essayer de communiquer avec un animal qui n'est même pas doué de parole, vous ne faites que perdre votre temps. Néanmoins, nous avons de la chance, il ne s'est pas fait dessus aujourd'hui.  
