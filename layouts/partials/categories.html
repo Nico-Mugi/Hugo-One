@@ -1,9 +1,9 @@
 {{range .Site.Taxonomies.categories.Alphabetical }}
-<div class="title">
+<div class="title active">
 	<i class="dropdown icon"></i>
 	<a class="link" href="{{- "/categories/" | relLangURL -}}{{- .Name | urlize -}}">{{- .Name -}}</a>
 </div>
-<div class="content">
+<div class="content active">
 {{ range .WeightedPages.Pages.ByTitle }}
 	<a class="item" href="{{ .Permalink }}">
 		<div>

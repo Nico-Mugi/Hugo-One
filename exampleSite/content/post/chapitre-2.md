@@ -26,7 +26,7 @@ On entendit dans les hauts-parleurs disséminés partout dans les 5 navires :
 - Ici le vice-amiral Sánchez, nous passons en code jaune mettez-vous en position, je répète, nous passons en code jaune mettez-vous en position.  
 
 Gin reprit la discussion avec le silencieux Shelton :  
-- Nous allons effectuer la procédure complète avec le vice-amiral, en temps normal, je n'y prends pas part mais je vais faire une exception pour aujourd'hui. Vous aurez, bien entendu, vous aussi, le choix d'y participer ou non.  
+- Nous allons effectuer la procédure complète avec le vice-amiral, en temps normal, je n'y prends pas part mais je vais faire une exception pour aujourd'hui. Vous aurez, bien entendu, vous aussi le choix d'y participer ou non.  
 Sánchez apparut dans la salle, il devait avoir environ 40 ans, de taille moyenne et il avait un ventre assez imposant. Il était accompagné de deux autres marins, le premier portait un plateau repas avec un bout de pain rassis, de la purée et un verre d'eau, le second quant à lui tenait une pochette médicale. Tous les trois saluèrent les amiraux, Gin ré-ouvrit la porte et tous pénétrèrent dans la cellule, à l'exception de Shelton, qui lui resta devant la porte, bras croisés. Sánchez ordonna aux soldats armés de le garder en joue tandis que ceux arrivés avec lui doivent nourrir le prisonnier. La lutte commença.  
      
 - Ouvre ta gueule, dit un soldat.  
@@ -56,7 +56,7 @@ Les deux compères se serrèrent la main et Liam se dirigea vers le pont.
 Sánchez demanda à Gin pendant qu'ils le regardaient partir :  
 - Comment a-t-il fait pour devenir amiral si jeune ?  
 - J'ai entendu dire que c'était un grand stratège reconnu dès ses 18 ans au sein son régiment de l'armée de terre. Il a soudainement décidé de venir dans la marine à ses 23 ans alors qu'il était déjà très bien gradé. A partir de là, il a monté les échelons rapidement et est devenu amiral à seulement 29 ans sur recommandation du général, une sorte de surdoué de la stratégie doublé de très bonnes capacités physiques.  
-- Et il est placé en tête d'un si grande flotte avec si peu d'expérience ?  
+- Et il est placé en tête d'une si grande flotte avec si peu d'expérience ?  
 - Il m'inspire confiance moi ce petit, malgré son attitude nonchalante, je pense qu'il peut apporter un peu de fraîcheur à cette flotte et s'imposer facilement comme leader solide aux yeux de tous grâce à son charisme.  
 - Je reste quand même peu confiant, conclut Sánchez en hésitant.  
 

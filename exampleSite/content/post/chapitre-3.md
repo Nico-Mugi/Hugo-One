@@ -18,7 +18,7 @@ Liam saisit son appareil et répondit :
 - Non merci c'était une journée éprouvante, je vais aller dans mon bureau. Néanmoins veuillez m'expliquer rapidement de quoi il s'agit. Over.  
 - Il faut récupérer le brancard, ramener le prisonnier dans sa cellule, le réveiller, lui injecter un laxatif et enfin lui faire faire ses besoins. Over.  
 - Bien reçu, vous pouvez venir me voir dans mon bureau à n'importe quel moment si vous le souhaitez. Over.  
-Arrivé dans son bureau, Liam ferma à clé la porte et alla se mettre dans son siège. Il tourna sur lui-même quelques instants la tête pensante puis saisit son téléphone fixe, composa un numéro rapidement, son correspondant décrocha et Liam lança :  
+Arrivé dans son bureau, Liam ferma à clé la porte et alla se mettre dans son siège. Il alluma une cigarette, tourna sur lui-même quelques instants la tête pensante puis saisit son téléphone fixe, composa un numéro rapidement, son correspondant décrocha et Liam lança :  
 - Salut mon pote c'est Liam, comment tu vas ?  
 - Bien, j'ai pas le temps, rappelle-moi plus tard.  
 Liam sourit, raccrocha et composa immédiatement un nouveau numéro. Après quelques instants, la connexion s'établit et Liam commença une nouvelle fois :  
@@ -44,14 +44,14 @@ Liam sourit, raccrocha et composa immédiatement un nouveau numéro. Après quel
 - Pas le choix.  
 - Ils sont toujours en France ?  
 - Ouais, je vais les voir pour Noël cette année. Et toi, toujours pas de femme ?  
-- Non c'est pas mon truc tu sais bien, je réfléchis mieux quand j'ai du recul sur les choses, les femmes ça m'aident pas.  
+- Non c'est pas mon truc tu sais bien, je réfléchis mieux quand j'ai du recul sur les choses, les femmes ça m'aide pas.  
 - T'as 32 piges maintenant, faut que tu grandisses un peu à ce niveau là !  
 - Un jour peut-être...  
 - Ça y est j'ai des infos. Le village de Baks a été rayé de la carte il y a 16 ans, en même temps que plusieurs village aux alentours, par une action antiterroriste de notre armée. Le rapport que j'ai sous les yeux n'est que très peu étoffé, et ça, ça sent pas bon.  
 - Que veux-tu dire ?  
 - Je pense que la vraie raison de l'action antiterroriste c'est le mec que t'as d'enfermé dans ton navire. Je t'explique la manœuvre, on dit qu'il y a des terroristes dans la zone, on rase tout pour ne laisser aucun témoin, tout ça pour récupérer ton type. C'est qu'une hypothèse mais c'est le plus plausible.  
 - Mais il devait avoir 5 piges à l'époque, qui voudrait attraper un gamin pour le placer à un tel niveau de surveillance ?  
-- Ecoute-moi bien, si je ne me trompes pas, et y'a très peu de chances que je me trompes, le criminel que tu as dans ton navire est extrêmement dangereux, fait très très gaffe avec lui.  
+- Ecoute-moi bien, si je ne me trompes pas, et il y a très peu de chances que je me trompes, le criminel que tu as dans ton navire est extrêmement dangereux, fait très très gaffe avec lui.  
 - Je l'avais deviné tout seul ça rien qu'avec la flotte que j'ai ! J'veux savoir la raison pour laquelle un gosse est enfermé à 5 ans !  
 - Si je te donnes plus de détails, tu seras en danger, bien plus que tu ne l'es déjà avec seulement ce type sur ton navire, parce que c'est du top secret, et tu sais bien qu'on aime pas trop les gens qui se mettent à fouiller dans du top secret.  
 - Est-ce que c'est lui qui à raser son village ? J'ai déjà entendu des rumeurs au sujet d...  
