@@ -48,7 +48,6 @@ Shelton quitte son nouveau bureau et se dirige vers le pont, sur lequel il retro
 - Vos seules missions sont de veiller à la bonne exécution des procédures avec le criminel, d'assurer qu'il reste calme et bien-sûr qu'il ne s'enfuit pas. Un scientifique fait des recherches quotidiennement sur lui, il est important de le garder en vie.  
 - Très bien, merci pour les précisions. Mais je m'interroge encore sur la raison du dispositif mis en place pour un seul détenu.  
 - Elle m'est inconnue mais pour qu'une telle sécurité soit mise en place, mieux vaut pour vous que la chose reste sous contrôle. Suivez-moi nous allons nous diriger vers sa cellule pour que vous puissiez voir un peu la bête.  
-   
 Après quelques pas, Shelton ré-engagea la conversation :   
 - Et quelles sont les recherches en question ?  
 - Seul le scientifique à bord en à connaissance, nous irons également à sa rencontre, cela l'intéressera peut-être de savoir qu'il y a un nouvel amiral à bord.   
