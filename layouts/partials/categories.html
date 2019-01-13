@@ -1,9 +1,10 @@
-{{range .Site.Taxonomies.categories.Alphabetical }}
-<div class="title {{ if eq .Name 'acte-0' }}active{{ end }}">
+{{ $first := "acte-0" }}
+{{ range .Site.Taxonomies.categories.Alphabetical }}
+<div class="title {{ if eq .Name $first}}active{{ end }}">
 	<i class="dropdown icon"></i>
 	<a class="link" href="{{- "/categories/" | relLangURL -}}{{- .Name | urlize -}}">{{- .Name -}}</a>
 </div>
-<div class="content {{ if eq .Name 'acte-0' }}active{{ end }}">
+<div class="content {{ if eq .Name $first}}active{{ end }}">
 {{ range .WeightedPages.Pages.ByTitle }}
 	<a class="item" href="{{ .Permalink }}">
 		<div>
