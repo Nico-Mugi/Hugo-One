@@ -2,14 +2,12 @@
 title: Chapitre 9
 date: 2019-02-12T17:58:43+01:00
 lastmod: 2019-02-12T17:58:43+01:00
-cover: "/img/default1.jpg"
+cover: "/img/9.jpg"
 draft: false
 categories: "Acte-1"
 description: Lendemain
-artwork: false
-titleArt: Nom
-artist: Nom
-urlImg : ["https", "www.artwork.com/"]
+artwork: true
+titleArt: "Hyouka - Oreki Houtarou wake up"
 ---
 _Lieu : Océan Atlantique - Sur le navire principal - Bureau de l'amiral   
 Date : 25 décembre 2011 - 05h13_   
