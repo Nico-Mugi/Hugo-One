@@ -13,7 +13,7 @@ urlImg : ["https", "www.artwork.com/"]
 ---
 _Lieu : Océan Atlantique - Sur le navire principal - Bureau de l'amiral   
 Date : 30 décembre 2011 - 10h32_   
-    
+       
 - Bonjour sous-amiral Sánchez, merci d'être venu.   
 - Bonjour mon amiral.   
 - Si je vous ai demandé de venir ici c'est pour une bonne raison, vous vous en doutez et je vous prierai de ne parler à personne de cet entretien. Notre scientifique, docteur Dumas m'a confié une mission vis-à-vis du détenu, il m'a demandé de feindre de faire copain-copain avec lui, sans me livrer plus de détail sur la raison. Je dois vous avouer que je ne comprends pas le moins du monde pourquoi une telle mission, mais soit. Pour la mener à bien, nous allons échanger nos rôles, je me chargerai des procédures avec le détenu, pendant que vous, vous assurerez la sécurité des navires et la coordination des hommes. Ça sera une mission difficile, mais je vous en sais capable, j'ai une totale confiance en vous sous-amiral Sánchez.   
