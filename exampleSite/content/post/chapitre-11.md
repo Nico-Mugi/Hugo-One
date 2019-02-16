@@ -6,10 +6,8 @@ cover: "/img/11.png"
 draft: false
 categories: "Acte-1"
 description: Efforts
-artwork: false
-titleArt: Nom
-artist: Nom
-urlImg : ["https", "www.artwork.com/"]
+artwork: true
+titleArt: "My Hero Academia - Izuku Midoriya training"
 ---
 _Lieu : Océan Atlantique - Sur le navire principal - Cellule de Baks   
 Date : 1er janvier 2012 - 21h29_
