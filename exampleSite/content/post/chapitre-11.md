@@ -2,7 +2,7 @@
 title: Chapitre 11
 date: 2019-02-15T18:41:19+01:00
 lastmod: 2019-02-15T18:41:19+01:00
-cover: "/img/default1.jpg"
+cover: "/img/11.png"
 draft: false
 categories: "Acte-1"
 description: Efforts
