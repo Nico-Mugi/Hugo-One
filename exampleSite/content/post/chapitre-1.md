@@ -3,6 +3,7 @@ title: Chapitre 1
 date: 2018-12-30T23:50:54+01:00
 lastmod: 2018-12-30T23:50:54+01:00
 cover: "/img/1.jpg"
+pdf: "/pdf/1"
 draft: false
 categories: "Acte-1"
 description: Arrivée

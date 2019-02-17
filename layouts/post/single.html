@@ -63,6 +63,12 @@
 			<a class="ui label suiv" href="{{.NextInSection.Permalink}}" title="Chapitre suivant">Chapitre suivant</a>
 			{{end}}
 		</section>
+		{{if .Params.PDF}}
+		<section class="ui secondary attached segment">
+			<h3>Télécharger le chapitre en version PDF : </h3>
+			<a class="ui label prec" href="{{.Params.PDF}}.pdf" download="{{.Params.Titre}}"></a>
+		</section>
+		{{end}}
 		<!--
 		<section class="ui secondary attached segment dream-tags">
 			{{- if isset .Params "tags" -}}
