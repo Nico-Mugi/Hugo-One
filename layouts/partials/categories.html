@@ -2,7 +2,7 @@
 {{ range .Site.Taxonomies.categories.Alphabetical }}
 <div class="title {{ if eq .Name $first}}active{{ end }}">
 	<i class="dropdown icon"></i>
-	<a class="link" href="{{- "/categories/" | relLangURL -}}{{- .Name | urlize -}}">{{- .Name -}}</a>
+	<a class="link" href="{{- "/categories/" | relLangURL -}}{{- .Name | urlize -}}">{{.Name | humanize}}</a>
 </div>
 <div class="content {{ if eq .Name $first}}active{{ end }}">
 {{ range .Pages.Reverse }}
