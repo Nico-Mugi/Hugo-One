@@ -2,9 +2,9 @@
 {{ if eq .Data.Singular "tag" }}
 {{ humanize (i18n "tag") }} | {{ .Data.Term }}
 {{ else if eq .Data.Singular "category" }}
-{{ humanize (i18n "category") }} | {{ .Data.Term }}
+Chapitres de l'{{ .Data.Term | humanize}}
 {{ else }}{{ end }}
-{{ end }}
+{{ end }} 
 
 {{ define "frontmenu" }}
 {{ partial "nav.html" . }}
@@ -22,3 +22,4 @@
 	</div>
 </div>
 {{ end }}
+
