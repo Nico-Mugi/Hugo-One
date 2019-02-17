@@ -45,7 +45,7 @@
 				-  ({{ i18n "article" .Count }})
 			</h3>
 			<ul>
-				{{ range .Pages.Date }}
+				{{ range .Pages.Reverse}}
 				<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 				{{ end }}
 			</ul>
