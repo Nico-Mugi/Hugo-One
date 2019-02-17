@@ -5,7 +5,7 @@
 	<a class="link" href="{{- "/categories/" | relLangURL -}}{{- .Name | urlize -}}">{{- .Name -}}</a>
 </div>
 <div class="content {{ if eq .Name $first}}active{{ end }}">
-{{ range .WeightedPages.Pages.ByTitle }}
+{{ range .Pages.Reverse }}
 	<a class="item" href="{{ .Permalink }}">
 		<div>
 			<i class="cocktail icon"></i>
