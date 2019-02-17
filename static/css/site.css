@@ -127,6 +127,10 @@ body, body.pushable {
   background-size: cover !important;
 }
 
+.justifyPost{
+  text-align: justify;
+}
+
 .anchor {
   visibility: hidden;
 }
