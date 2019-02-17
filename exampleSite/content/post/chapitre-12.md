@@ -3,6 +3,7 @@ title: Chapitre 12
 date: 2019-02-15T18:41:23+01:00
 lastmod: 2019-02-15T18:41:23+01:00
 cover: "/img/12.jpg"
+pdf: "12"
 draft: false
 categories: "Acte-1"
 description: "Liam Shelton"

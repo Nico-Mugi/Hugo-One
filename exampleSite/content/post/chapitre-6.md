@@ -3,6 +3,7 @@ title: Chapitre 6
 date: 2019-01-02T20:47:53+01:00
 lastmod: 2019-01-02T20:47:53+01:00
 cover: "/img/6.jpg"
+pdf: "6"
 draft: false
 categories: "Acte-1"
 description: Finale

@@ -3,6 +3,7 @@ title: Chapitre 9
 date: 2019-02-12T17:58:43+01:00
 lastmod: 2019-02-12T17:58:43+01:00
 cover: "/img/9.jpg"
+pdf: "9"
 draft: false
 categories: "Acte-1"
 description: Lendemain

@@ -3,6 +3,7 @@ title: Chapitre 8
 date: 2019-01-13T19:42:13+01:00
 lastmod: 2019-01-13T19:42:13+01:00
 cover: "/img/8.jpg"
+pdf: "8"
 draft: false
 categories: "Acte-1"
 description: Noël

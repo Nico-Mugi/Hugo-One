@@ -3,6 +3,7 @@ title: Chapitre 10
 date: 2019-02-12T18:03:09+01:00
 lastmod: 2019-02-12T18:03:09+01:00
 cover: "/img/default1.jpg"
+pdf: "10"
 draft: false
 categories: "Acte-1"
 description: Changements

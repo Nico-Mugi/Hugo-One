@@ -3,6 +3,7 @@ title: Chapitre 7
 date: 2019-01-13T19:09:20+01:00
 lastmod: 2019-01-13T19:09:20+01:00
 cover: "/img/7.jpg"
+pdf: "7"
 draft: false
 categories: "Acte-1"
 description: Stratège

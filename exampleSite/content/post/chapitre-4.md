@@ -3,6 +3,7 @@ title: Chapitre 4
 date: 2018-12-31T00:44:48+01:00
 lastmod: 2018-12-31T00:44:48+01:00
 cover: "/img/4.jpg"
+pdf: "4"
 draft: false
 categories: "Acte-1"
 description: Leadership

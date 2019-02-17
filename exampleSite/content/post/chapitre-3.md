@@ -3,6 +3,7 @@ title: Chapitre 3
 date: 2018-12-31T00:20:20+01:00
 lastmod: 2018-12-31T00:20:20+01:00
 cover: "/img/3.jpg"
+pdf: "3"
 draft: false
 categories: "Acte-1"
 description: Appel 

@@ -3,6 +3,7 @@ title: Chapitre 13
 date: 2019-02-15T18:41:27+01:00
 lastmod: 2019-02-15T18:41:27+01:00
 cover: "/img/13.jpg"
+pdf: "13"
 draft: false
 categories: "Acte-1"
 description: "Baks Zelen"

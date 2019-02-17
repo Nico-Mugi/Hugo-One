@@ -3,6 +3,7 @@ title: Chapitre 5
 date: 2018-12-31T00:46:27+01:00
 lastmod: 2018-12-31T00:46:27+01:00
 cover: "/img/5.jpg"
+pdf: "5"
 draft: false
 categories: "Acte-1"
 description: Tournoi

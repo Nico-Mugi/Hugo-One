@@ -3,6 +3,7 @@ title: Chapitre 2
 date: 2018-12-31T00:20:15+01:00
 lastmod: 2018-12-31T00:20:15+01:00
 cover: "/img/2.jpg"
+pdf: "2"
 draft: false
 categories: "Acte-1"
 description: Prisonnier

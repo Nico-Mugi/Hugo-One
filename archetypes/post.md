@@ -3,6 +3,7 @@ title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
 lastmod: {{ .Date }}
 cover: "/img/default1.jpg"
+pdf: ""
 draft: true
 categories: "Acte-1"
 description: TitreChap
