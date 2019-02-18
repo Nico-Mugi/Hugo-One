@@ -5,7 +5,7 @@ lastmod: {{ .Date }}
 cover: "/img/default1.jpg"
 pdf: ""
 draft: true
-categories: "Acte-1"
+categories: "Acte-2"
 description: TitreChap
 artwork: false
 titleArt: Nom
