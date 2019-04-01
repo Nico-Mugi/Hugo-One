@@ -23,6 +23,9 @@
   .blog-card {
     width: calc(50% - 1rem);
   }
+  .ui.label.suiv{
+    float: right;
+  }
 }
 
 @media screen and (max-width: 300px) {
@@ -280,9 +283,12 @@ li:not('.toc') {
   margin-bottom: 0.5rem;
 }
 
+/*
 .ui.label.suiv{
   float: right;
 }
+Moved before mobile css
+*/
 
 .ui.label.prec.empty{
   visibility: hidden;
