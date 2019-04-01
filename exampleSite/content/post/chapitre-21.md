@@ -51,7 +51,7 @@ Baks courut jusqu'à la cuvette en claquant la porte. Angel dit à Diego en se r
 - Il s'appelle Baks, il me l'a dit avant que tu arrives.   
    
 Pendant son séjour aux toilettes, Baks comprit qu'il était sorti de sa cellule, même sans savoir comment il avait fait, mais il se souvint du conseil que Liam lui avait donné la dernière fois qu'il l'avait vu. Alors il commença à analyser la situation dans sa tête :   
-- Ils sont jeunes, environ mon âge. L'appartement à l'air d'être petit, ça doit être un appartement étudiant et ils doivent donc être étudiants comme dans les mangas. Je suis parti vomir soudainement, qu'est-ce qui fait vomir chez les jeunes ? La maladie ? **L'alcool crétin.** Ah, merci. Ils m'ont retrouvés dehors inconscient, abus d'alcool dans une soirée. Mon apparence ça donne quoi ?   
+- Ils sont jeunes, environ mon âge. L'appartement à l'air d'être petit, ça doit être un appartement étudiant et ils doivent donc être étudiants comme dans les mangas. Je suis parti vomir soudainement, qu'est-ce qui fait vomir chez les jeunes ? La maladie ? ***L'alcool crétin.*** Ah, merci. Ils m'ont retrouvés dehors inconscient, abus d'alcool dans une soirée. Mon apparence ça donne quoi ?   
 Il se regarda dans le miroir et constata :   
 - J'ai quelques tâches de sang, un combat alcoolisé. Ah mais l'abus d'alcool fait oublier, je ne me souviens pas de la soirée. Et le reste j'improvise avec un scénario que j'ai déjà lu, je ne dois pas passer trop de temps dans les toilettes. J'espère vraiment que Liam va bien.   
 Diego faisait encore la cuisine pendant qu'Angel était en train de finir de mettre la table et en voyant Baks sortir de la salle de bain, elle lui dit :   
