@@ -38,7 +38,7 @@ A la pause de 10 heures, le groupe de 5 se retrouva dehors. Diego commença à r
    
 A midi, après avoir déjeuné ensemble, Tanguy et Enzo allèrent chez ce dernier pour récupérer des affaires que le premier avait oublié à la soirée de la veille, tandis que les trois autres se dirigèrent chez Diego. Une fois arrivés dans l'appartement, ils découvrirent le jeune homme encore endormi sur le matelas, Nicolas dit en rigolant à Diego :   
 - T'as abusé, tu n'as même pas mis de drap sur le matelas !    
-- J'avais pas que ça à foutre hier soir, j'étais crevé, mais au moins j'ai réussi à rentrer chez moi après la soirée, pas comme toi.    
+- J'avais pas que ça à foutre hier soir, j'étais crevé, mais au moins j'ai pas eu la flemme de rentrer chez moi après la soirée, pas comme toi.    
 - Ok, j'avoue tu marques un point. Mais il est grave bizarre quand même ce type, tu l'as trouvé à pioncer dans l'herbe hier soir et il dort encore à midi ? demanda Nicolas.   
 - T'aurais pu faire pareil si on avait pas eu cours ce matin Nico, déclara Angel.   
 Elle s'approcha doucement du corps, elle tâta son pouls sur son cou, enleva les couvertures pour regarder attentivement les bras et les autres endroits où il restait des engelures. Elle retourna le corps pour le mettre sur le dos et continua de l'examiner en soulevant son t-shirt. Après quelques instants, elle remit le tout en place et dit au deux autres :   
