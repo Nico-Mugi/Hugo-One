@@ -21,7 +21,7 @@ enableEmoji=true
 	author = "Mugi"
 	description = "Je vais poster sur ce site mon histoire !"
 	avatar = "/img/AvatarMug.jpg"
-	motto = "Je vais poster sur ce site ma histoire !"
+	motto = "Je vais poster sur ce site mon histoire !"
 	enableToc = true
 	enableShareCard = true
 
