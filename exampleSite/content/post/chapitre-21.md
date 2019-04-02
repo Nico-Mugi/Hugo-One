@@ -87,7 +87,7 @@ Diego faisait encore la cuisine pendant qu'Angel était en train de finir de met
 - T'as raison, bon c'est pas grave, il comprendra. Ou il s'en foutra carrément je pense.   
 - Merci beaucoup, termina Baks.   
    
-Ils avaient fini de manger, donc ils mirent leur plan en action. Ils passèrent d'abord chez Nicolas récupérer quelques habits pour Baks puis Diego rentra chez lui pendant que les deux autres se rendirent dans l'appartement d'Angel. Une fois arrivés, elle donna une serviette à Baks et lui dit, en montrant la salle de bain, qu'il pouvait aller se laver. Celui-ci s'exécuta et se changea avec un jogging et un t-shirt de Nicolas. En sortant, Angel avait déjà préparé le deuxième matelas pour Baks, s'était assise sur son lit et elle lui dit :   
+Ils avaient fini de manger, donc ils mirent leur plan en action. Ils passèrent d'abord chez Nicolas récupérer quelques habits pour Baks puis Diego rentra chez lui pendant que les deux autres se rendirent dans l'appartement d'Angel. Une fois arrivés, elle enleva son manteau puis donna une serviette à Baks et lui dit, en montrant la salle de bain, qu'il pouvait aller se laver. Celui-ci s'exécuta et se changea avec un jogging et un t-shirt de Nicolas. En sortant, Angel avait déjà préparé le deuxième matelas pour Baks, s'était assise sur son lit et elle lui dit :   
 - Voilà, ton lit est prêt aussi !    
 - Merci. Dis-moi Angel, pourquoi faire tout cela pour moi ?   
 - C'est normal d'aider quelqu'un dans le besoin, non ? Mais j'aimerais te poser une question...
