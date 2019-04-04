@@ -21,8 +21,8 @@ Celui-ci raconta tout ce qu'il savait sur lui-même, le fait qu'il ait été enf
 - Mais il travaille pour le gouvernement étasunien ! Si tu es recherché...   
 Baks coupa Angel et déclara :   
 - Je suis prêt à prendre ce risque, s'il connait vraiment Liam, c'est mon unique chance de pouvoir comprendre ce qu'il se passe. Je suis désolé de devoir encore te demander un service après tout ce que je t'ai fait.   
-- Tu n'as pas à t'excuser, n'importe qui aurait menti dans ta situation, tu ne peux te permettre de faire confiance à personne, je te remercie néanmoins de m'avoir dit la vérité. Demain je dois avoir un repas chez mes parents, mon père est encore en vacances, donc il sera là. Je demanderai si je peux t'inviter.   
-   
+- Tu n'as pas à t'excuser, n'importe qui aurait menti dans ta situation, tu ne peux te permettre de faire confiance à personne, je te remercie néanmoins de m'avoir dit la vérité. Demain je dois avoir un repas chez mes parents, mon père est encore en vacances, donc il sera là. Je demanderai si je peux t'inviter.  
+     
 - Tu as entendu mon chéri ? Notre petite fille va ramener un garçon pour manger avec nous ce midi ! Elle grandit tellement vite, n'est-ce-pas ?   
 - C'est vrai, je la vois encore tout bébé ! On était jeune à ce temps-là !    
 - C'est le premier qu'elle nous fait rencontrer, je me demande depuis quand ils sortent ensemble ?   
