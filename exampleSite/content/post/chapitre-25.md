@@ -20,7 +20,7 @@ Une dizaine d'hommes en costard sont rassemblés autour d'une grande table :
 Un homme aux yeux clairs et la voix très grave marmonna :   
 - Il se serait retrouvé en face à face avec Ice mais aurait survécu ? Qui est cette homme ? Liam Shelton, je vais te retrouver, tu ne peux pas être un personnage secondaire dans cette affaire.    
 Après quelques instants, ce même homme reprit en gueulant :   
-- Allez interroger toutes les personnes qu'il connait, qu'il a fréquenté, je veux tout savoir sur eux et leur vie, et s'ils refusent de coopérer, tuez-les ! Et qu'on m'amène cet Hopkins ! Retrouvons Liam Shelton, et vous retrouverons Ice !   
+- Allez interroger toutes les personnes qu'il connait, qu'il a fréquenté, je veux tout savoir sur eux et leur vie, et s'ils refusent de coopérer, tuez-les ! Et qu'on m'amène cet Hopkins ! Retrouvons Liam Shelton, et nous retrouverons Ice !   
    
 Au même moment, au bar d'un petit pub miteux, deux hommes discutent :   
 - Tu es taré d'être revenu par ici. Comment as-tu fait pour venir jusqu'ici ? On m'a même appelé pour m'annoncer ta mort.   
