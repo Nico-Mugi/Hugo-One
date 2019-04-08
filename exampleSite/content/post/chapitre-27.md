@@ -57,8 +57,8 @@ Arrivés à un parc non loin de la maison, ils s'assirent sur un banc et Liam co
 - Mais quand j'ai créé de la glace hier, je n'ai pas perdu connaissance et j'avais encore pleinement le contrôle de mes actions !   
 - Quoi ?! Tu as utilisé tes pouvoirs hier ? Où ? Qui l'a vu ?   
 - J'étais avec Lily dans le centre-ville. On s'est fait agresser et comme ils étaient quatre contre moi, j'ai été surmené et une des voix dans ma tête m'a guidé pour créer la glace pour me défendre.   
-- Lily t'as vu utiliser ta glace ?! Et tu as encore ses voix dans ta tête ? Comment savaient-elles comment activer tes pouvoirs ?   
-- Oui Lily m'a vu, elle m'a aidé à éviter la police après que nos agresseurs se soient enfuit quand ils ont vu ma glace.   
+- Lily t'as vu utiliser ta glace ?! Et tu as encore ces voix dans ta tête ? Comment savaient-elles comment activer tes pouvoirs ?   
+- Oui Lily m'a vu, elle m'a aidé à éviter la police après que nos agresseurs se soient enfuis quand ils ont vu ma glace.   
 - Oh merde... Bon on verra plus tard avec Alice pour tes voix, avant il faut que je pose des questions à Lily.   
 - Comment tu sais tout ça sur les Elements, Liam ?   
 - On apprend beaucoup de choses si on fait les bonnes recherches sur Internet et quand on a des bons contacts dans les gouvernements et armées. Bon le plus important, pour l'instant tu dois cacher au maximum ces pouvoirs. Tu es recherché dans le monde entier, ton visage est connu de tous donc évite le plus possible de leur faciliter le travail en exhibant ton pouvoir en pleine ville. D'ailleurs, garde l'idée des lunettes et des cheveux attachés, c'est plus discret si tu ne ressembles pas directement aux avis de recherches. Mais tu vas devoir apprendre à utiliser ta glace pour te défendre quand l'armée va rappliquer pour essayer de te remettre en taule ou te tuer. Bon, viens avec moi, il faut que je parle un peu avec Lily comme elle est courant.   
