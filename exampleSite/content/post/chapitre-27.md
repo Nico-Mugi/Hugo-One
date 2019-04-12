@@ -38,12 +38,11 @@ Liam écarta légèrement son ami, ouvrit la porte et pénétra dans la maison, 
 Liam s'assit à la table avec ses hôtes et déclara :   
 - Je vous annonce donc à tous que non, je ne suis pas mort ! Enfin... Je crois... Néanmoins, le moins vous en saurez, le mieux vous vous porterez ! Je suis venu vous saluer comme ça faisait longtemps qu'on ne s'était pas vu. Incroyable comment tu as grandi Lily, tu deviens une vraie femme ! Je me prends un coup de vieux...    
 Joshua rentra finalement dans la pièce, toujours avec son visage dépité. Alice n'en tint pas compte et demanda à son nouvel invité :   
-   
 - Tu veux manger un petit quelque chose, Liam ?   
 - Non merci Alice, je ne vais pas vous déranger très longtemps. Je vais juste vous piquer le petit gars ici-présent quelques minutes, il faut que je discute avec lui ! Je vais lui apprendre un peu comment bien traiter une femme comme Lily ! Déclara-t-il en lançant un clin d’œil à Baks. Si par hasard, on vient vous poser des questions et qu'on vous demande si vous avez des nouvelles de moi, dites-leur que je suis bel et bien vivant et que s'ils veulent me trouver, ils ont qu'à me chercher ! N'essayez pas de me couvrir, je n'en ai pas besoin. Je repasserai vous dire au revoir un peu plus tard, à plus les loulous ! J'étais content de vous revoir !   
 Il se leva de table, alla remettre son manteau et fit signe à Baks de le suivre. Celui-ci salua la famille, remercia pour le repas et s'excusa de devoir s'absenter, puis ils sortirent de la maison.   
    
-Arrivés à un parc non loin de la maison, ils s'assirent sur un banc et Liam commença la discussion :   
+Arrivés à un parc non loin de la maison, ils s'assirent sur un banc et Liam commença la discussion :  
 - Bon, comment tu vas, Baks ?   
 - Moi ça va super et toi ? Je suis content de te revoir !   
 - Moi aussi, petit gars ! S'exclama-t-il en frottant le haut du crâne de Baks.   
