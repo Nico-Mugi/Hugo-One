@@ -11,7 +11,7 @@ artwork: false
 ---
 _Lieu : France - Ville d'Annecy - Appartement de Lily   
 Date : 22 avril 2012 - 15h36_   
-   
+     
 - Comment s'en est-on retrouvé là, déjà ? Demanda Lily en s'asseyant sur sa chaise de bureau.   
 - Je ne sais pas non plus, ajouta Baks en haussant les épaules.   
 - Vous inquiétez pas, ça va bien se passer, répondit Liam. Bon du coup Lily, il faut que tu arrives à hypnotiser Baks.   
