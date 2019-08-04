@@ -3,6 +3,7 @@
 		<header id="author" class="ui top attached center aligned inverted segment">
 			{{- partial "author.html" . -}}
 			{{ .ReadingTime }}
+			{{ $readTimeAll := 0 }}
 			{{ range .Pages }}
 				{{ $readTimeAll }}
 				{{ $readTimeAll := add $readTimeAll .ReadingTime }}
