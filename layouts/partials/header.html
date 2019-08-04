@@ -6,9 +6,10 @@
 			{{ range .Site.Taxonomies.categories.Alphabetical }}
 				{{ range .Pages }}
 					{{ $readTimeAll := add $readTimeAll .ReadingTime }}
+					<h4>Temps total de lecture : {{ $readTimeAll }} minutes</h4>
 				{{end}}
 			{{end}}
-			<h4>Temps total de lecture : {{ $readTimeAll }} minutes</h4>
+			
 		</header>
 		<div class="{{ if not .IsPage }}active{{ end }} title header-title">
 			{{- if or (.Site.Params.enableCategories) (.Site.Params.enableTags) -}}
