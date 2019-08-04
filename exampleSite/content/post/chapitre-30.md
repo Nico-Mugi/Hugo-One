@@ -1,7 +1,7 @@
 ---
 title: Chapitre 30
-date: 2019-07-23T09:53:22+02:00
-lastmod: 2019-07-23T09:53:22+02:00
+date: 2019-08-04T09:53:22+02:00
+lastmod: 2019-08-04T09:53:22+02:00
 cover: "/img/default1.jpg"
 pdf: "30"
 draft: false
