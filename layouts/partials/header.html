@@ -8,6 +8,7 @@
 			    {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") .ReadingTime) }}
 		  	{{end}}
 		  	<h4>Temps total de lecture : ~ {{ $.Scratch.Get "counter" }} minutes</h4>
+		  	
 		</header>
 		<div class="{{ if not .IsPage }}active{{ end }} title header-title">
 			{{- if or (.Site.Params.enableCategories) (.Site.Params.enableTags) -}}
