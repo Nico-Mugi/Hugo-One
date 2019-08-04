@@ -2,7 +2,13 @@
 	<div id="header" class="ui inverted segment column box">
 		<header id="author" class="ui top attached center aligned inverted segment">
 			{{- partial "author.html" . -}}
-			{{ .Site.AllPages.ReadingTime }}
+
+		    {{ $.Scratch.Set "counter" 0 }}
+		 	{{range .Pages}}
+			    {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") .ReadingTime) }}
+			    I am the number {{$.Scratch.Get "counter"}} in loop!
+		  	{{end}}
+
 			{{ $readTimeAll := 0 }}
 			{{ range .Pages }}
 				{{ $readTimeAll }}
