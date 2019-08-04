@@ -3,9 +3,9 @@
 	<div id="header" class="ui inverted segment column box">
 		<header id="author" class="ui top attached center aligned inverted segment">
 			{{- partial "author.html" . -}}
-			{{ range .Site.Taxonomies.categories.Pages }}
-					{{ $readTimeAll := add $readTimeAll .ReadingTime }}
-					<h4>Temps total de lecture : {{ $readTimeAll }} minutes</h4>
+			{{ range .Pages }}
+				{{ $readTimeAll := add $readTimeAll .ReadingTime }}
+				<h4>Temps total de lecture : {{ $readTimeAll }} minutes</h4>
 			{{end}}
 		</header>
 		<div class="{{ if not .IsPage }}active{{ end }} title header-title">
