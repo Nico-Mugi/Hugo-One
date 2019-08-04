@@ -2,6 +2,11 @@
 	<div id="header" class="ui inverted segment column box">
 		<header id="author" class="ui top attached center aligned inverted segment">
 			{{- partial "author.html" . -}}
+			{{ range .Site.Taxonomies.categories.Alphabetical }}
+			{{ range .Pages }}
+			{{ .ReadingTime }} + 
+			{{end}}
+			{{end}}
 		</header>
 		<div class="{{ if not .IsPage }}active{{ end }} title header-title">
 			{{- if or (.Site.Params.enableCategories) (.Site.Params.enableTags) -}}
