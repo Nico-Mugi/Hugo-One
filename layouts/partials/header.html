@@ -5,7 +5,7 @@
 			{{ $readTimeAll := 0 }}
 			{{ range .Site.Taxonomies.categories.Alphabetical }}
 				{{ range .Pages }}
-					{{ $readTimeAll := $readTimeAll + .ReadingTime }}
+					{{ $readTimeAll := add $readTimeAll .ReadingTime }}
 				{{end}}
 			{{end}}
 			<h4>Temps total de lecture : {{ $readTimeAll }} minutes</h4>
