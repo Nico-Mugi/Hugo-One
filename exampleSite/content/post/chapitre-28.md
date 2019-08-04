@@ -39,7 +39,7 @@ Lily échangea un regard inquiet avec Liam mais celui-ci l'encouragea en acquies
 Brusquement, la tête de Baks tomba vers l'avant puis quelques instants après, elle se redressa lentement. Ses yeux se ré-ouvrirent, sauf que ceux-ci était devenus gris foncés, il regarda les deux personnes qui l'observaient et dit d'une voix légèrement plus grave que celle de Baks :   
 - ***Bonjour, je n'ai pas beaucoup de temps, je vous prie d'être le plus bref possible.***   
 - Tu es la voix que Baks qualifie de gentille n'est-ce pas ? Demanda Liam.   
-- ***En effet.******   
+- ***En effet.***   
 - Es-tu lié au pouvoir de la glace ? Continua Shelton.   
 - ***Non. Ce pouvoir appartient à Baks, ce n'est en aucun cas le mien.***   
 - Alors comment ce fait-il que tu ais pu apprendre à Baks à se servir de ce pouvoir ?   
