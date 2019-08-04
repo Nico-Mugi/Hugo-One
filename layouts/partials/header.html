@@ -2,7 +2,7 @@
 	<div id="header" class="ui inverted segment column box">
 		<header id="author" class="ui top attached center aligned inverted segment">
 			{{- partial "author.html" . -}}
-			{{ .ReadingTime }}
+			{{ .site.AllPages.ReadingTime }}
 			{{ $readTimeAll := 0 }}
 			{{ range .Pages }}
 				{{ $readTimeAll }}
