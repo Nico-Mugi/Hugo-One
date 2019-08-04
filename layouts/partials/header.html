@@ -4,8 +4,9 @@
 			{{- partial "author.html" . -}}
 			{{ $readTimeAll := 0 }}
 			{{ range .Pages }}
+				{{ $readTimeAll }}
 				{{ $readTimeAll := add $readTimeAll .ReadingTime }}
-				<h4>Temps total de lecture : {{ add $readTimeAll .ReadingTime }} minutes</h4>
+				<h4>Temps total de lecture : {{ $readTimeAll }} minutes</h4>
 			{{end}}
 		</header>
 		<div class="{{ if not .IsPage }}active{{ end }} title header-title">
