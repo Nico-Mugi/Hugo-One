@@ -37,22 +37,22 @@ Il hocha la tête et l'apprentie hypnotiseuse continua :
 Lily échangea un regard inquiet avec Liam mais celui-ci l'encouragea en acquiesçant, donc elle poursuivit :   
 - Je tiens absolument à lui parler. Est-il possible qu'elle prenne ta place ?   
 Brusquement, la tête de Baks tomba vers l'avant puis quelques instants après, elle se redressa lentement. Ses yeux se ré-ouvrirent, sauf que ceux-ci était devenus gris foncés, il regarda les deux personnes qui l'observaient et dit d'une voix légèrement plus grave que celle de Baks :   
-- Bonjour, je n'ai pas beaucoup de temps, je vous prie d'être le plus bref possible.   
+- ***Bonjour, je n'ai pas beaucoup de temps, je vous prie d'être le plus bref possible.***   
 - Tu es la voix que Baks qualifie de gentille n'est-ce pas ? Demanda Liam.   
-- En effet.   
+- ***En effet.******   
 - Es-tu lié au pouvoir de la glace ? Continua Shelton.   
-- Non. Ce pouvoir appartient à Baks, ce n'est en aucun cas le mien.   
+- ***Non. Ce pouvoir appartient à Baks, ce n'est en aucun cas le mien.***   
 - Alors comment ce fait-il que tu ais pu apprendre à Baks à se servir de ce pouvoir ?   
-- Une intuition. Mon hôte et moi partageons la même réalité et les mêmes souvenirs, la différence est que je suis dans l'arrière plan, une sorte de conseiller si vous préférez. J'ai simplement analysé la situation et d'après les flashs que l'on a eu, il y avait une possibilité qu'il puisse créer de la glace. Je lui ai suggéré d'essayer de l'employer une première fois, chose qu'il a réalisé seul dans un premier temps avec cette espèce de poing américain. Et comme il continuait de paniquer et qu'il m'a semblé qu'il suffisait simplement qu'il pense à faire apparaître de la glace pour que cela fonctionne, je lui ai clairement dit d'imaginer un bouclier, chose qu'il a, encore une fois, très bien réalisée.   
+- ***Une intuition. Mon hôte et moi partageons la même réalité et les mêmes souvenirs, la différence est que je suis dans l'arrière plan, une sorte de conseiller si vous préférez. J'ai simplement analysé la situation et d'après les flashs que l'on a eu, il y avait une possibilité qu'il puisse créer de la glace. Je lui ai suggéré d'essayer de l'employer une première fois, chose qu'il a réalisé seul dans un premier temps avec cette espèce de poing américain. Et comme il continuait de paniquer et qu'il m'a semblé qu'il suffisait simplement qu'il pense à faire apparaître de la glace pour que cela fonctionne, je lui ai clairement dit d'imaginer un bouclier, chose qu'il a, encore une fois, très bien réalisée.***   
 - Si vous partagez les mêmes souvenirs, tu ne sais pas non plus à quoi correspond son rêve flou qu'il fait souvent ?   
-- En effet, je ne le sais pas non plus. J'ai exactement les mêmes souvenirs que Baks, ni plus ni moins.   
+- ***En effet, je ne le sais pas non plus. J'ai exactement les mêmes souvenirs que Baks, ni plus ni moins.***   
 - Pourquoi es-tu capable de prendre littéralement la place de Baks ?   
-- Je ne connais pas la réponse.   
+- ***Je ne connais pas la réponse.***   
 Les yeux gris fixaient Lily depuis le début de la conversation, bien qu'ils discutaient avec Liam, il demanda à la jeune fille :   
-- Pourquoi suis-je si certain de vous connaître ?   
+- ***Pourquoi suis-je si certain de vous connaître ?***   
 Juste après sa question, il ferma les yeux et fronça ses sourcils et tous ses membres se crispèrent fermement, Lily lui demanda :   
 - Que se passe-t-il ? Décris moi ce que tu vois.   
-- Le rêve... Il est plus clair... Je cours dans une forêt, j'aperçois de l'eau au loin. Je trébuche légèrement mais continue de courir sans m'arrêter dans cette direction. Je vois une femme allongée au loin... Puis plus rien, le flou reprend le dessus.   
+- ***Le rêve... Il est plus clair... Je cours dans une forêt, j'aperçois de l'eau au loin. Je trébuche légèrement mais continue de courir sans m'arrêter dans cette direction. Je vois une femme allongée au loin... Puis plus rien, le flou reprend le dessus.***   
 Il arrêta de froncer les sourcils et quelques instants après, les paupières se ré-ouvrirent, avec les yeux verts de Baks, celui-ci demanda :   
 - Alors, vous avez eu ce que vous voulez ? Désolé, elle ne pouvait pas rester plus longtemps.    
 - Bon finalement, on n'a pas pu apprendre grand chose. Je dois vous avouer que j'aurais préféré parler à l'autre voix ou que au moins celle-ci nous en apprenne plus sur l'autre. On ne sait toujours pas s'il s'agit d'hallucinations de ton esprit, Baks, ou si c'est plus que ça. Mais, Lily, est-ce que, grâce à une influence psychologique très forte sur soi-même, on peut modifier un élément corporel comme la couleur de ses yeux si on est vraiment persuadé qu'il existe plusieurs personnalités dans notre corps ?   

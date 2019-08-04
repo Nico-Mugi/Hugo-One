@@ -47,7 +47,7 @@ Une ombre gigantesque sortit de la brume à plusieurs mètres de hauteur. Un blo
 - Très bien, va pour les armes blanches alors, je veux en tester une particulière...   
    
 Il tendit les bras en l'air au dessus de sa tête et légèrement devant lui puis il empila ses deux poings ouverts l'un sur l'autre et ferma les yeux. Il fit une grande respiration et prit le temps de créer parfaitement son arme. D'abord, une barre qui débute dans ses deux mains et s'allonge jusqu'à atteindre une longueur d'environ deux mètres. Au bout de cette barre, une grande lame se forme, celle-ci devenant de moins en moins large au fur et à mesure qu'elle s'allonge et se courbant légèrement vers l'intérieur sur la fin. Quand il eu fini de créer son arme, il ne parvenait plus à bouger, un grand pincement au cœur et une boule au ventre l'en empêchaient. Une voix lui avait dit :   
-- Ceci est ton arme. Tue-le.   
+- **Ceci est ton arme. Tue-le.**   
 Liam attendait son adversaire qui ne bougeait plus depuis déjà quelques instants. S'impatientant, il courut sur lui et tenta de le trancher. Baks para maladroitement et recula en titubant. Liam lui gueula :   
 - Qu'est-ce qui t'arrives ? Pourquoi paniques-tu ? De quoi as-tu peur, Baks ?! Tu as plus peur de ces voix dans ta tête que de ma lame qui menace de te trancher la gorge ? C'est stupide ! Aies un peu de courage, bon sang ! Et reste concentré sur la réalité, sinon tu vas juste mourir ! On dirait un chiot perdu, reprends-toi, merde !   
 Sur ces derniers mots, il renvoya un grand coup de sabre en direction de Baks. Celui-ci para solidement avec le manche de son arme et redressa la tête en renvoyant le bras de Liam d'où il était partit :   
