@@ -64,7 +64,7 @@ Liam réfléchit quelques instants et demanda :
 - On va où ? Demanda Baks.   
 - Tester ton pouvoir ! Répondit Liam, enjoué.   
 - Où veux-tu aller faire ça, Liam ! Demanda la jeune femme.   
-- A un terrain vague à quelques kilomètres d'ici. Habillez-vous vite, je voudrais qu'on y soit avant qu'il fasse nuit, on va y aller à pied !   
+- A un terrain vague à quelques kilomètres d'ici au milieu d'une forêt. Habillez-vous vite, je voudrais qu'on y soit avant qu'il fasse nuit, on va y aller à pied !   
    
 Après une bonne heure de marche, ils arrivèrent tous les trois à l'endroit dont Liam avait parlé, il dit :   
 - Positionne-toi face à moi à environ 5 mètres de distance Baks. Vas-y essaie de faire jaillir de la glace de la paume de ta main, ça sera l'endroit le plus facile pour toi de t'en débarrasser si tu en crées trop.   
