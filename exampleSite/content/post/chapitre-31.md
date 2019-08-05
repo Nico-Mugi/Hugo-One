@@ -9,7 +9,7 @@ categories: "Acte-2"
 description: "École"
 artwork: false
 ---
-_Lieu : France - Ville d'Annecy - Appartement d'Angel   
+_Lieu : France - Ville d'Annecy - Appartement de Lily   
 Date : 23 avril 2012 - 07h07_  
      
 - Aller ! On se réveille Baks ! C'est l'heure d'aller à l'école ! Gueula Lily.   
