@@ -1,16 +1,64 @@
 ---
 title: Chapitre 33
-date: 2019-02-18T17:13:38+01:00
-lastmod: 2019-02-18T17:13:38+01:00
+date: 2019-08-14T15:09:24+02:00
+lastmod: 2019-08-14T15:09:24+02:00
 cover: "/img/default1.jpg"
-pdf: ""
-draft: true
+pdf: "33"
+draft: false
 categories: "Acte-2"
-description: TitreChap
+description: "Gala"
 artwork: false
-titleArt: Nom
-artist: Nom
-urlImg : ["https", "www.artwork.com/"]
+music : "Odd Chap - Midnight Sway"
 ---
-_Lieu :   
-Date : _
+_Lieu : France - Ville d'Annecy - Centre-ville   
+Date : 26 avril 2012 - 16h17   
+Musique : Odd chap - Midnight sway_
+
+Baks avait déjà commencé à faire l'école buissonnière depuis deux jours. Les cours magistraux auxquels il pouvait accéder ne l'intéressait pas. Alors plutôt que de passer ses journées à essayer des avions en papier en cours, il les passait à vagabonder dans les rues d'Annecy. Lui qui adore lire, écumait les bibliothèques et librairies et quand il n'était pas renfermé dans la lecture d'un bouquin, il se baladait autour du lac. Mais ce qu'il aime faire par dessus tout, c'est discuter avec des inconnus, connaître de nouvelles personnes, de nouvelles vies, de nouvelles façons de pensées... Il n'y connaissait rien à la vie alors il voulait en savoir plus sur celle des autres. Il croisait des personnes qui lui racontaient uniquement leur passé, d'autres ne vivaient que dans le moment présent et enfin ceux qui ne parlaient que de leurs projets plus ou moins ambitieux, pour le futur. Il aime questionner sur ces trois aspects de la vie quand une personne ne lui parle que d'un seul ou de deux. La veille, l'un d'eux lui a dit une phrase qu'il a adoré : "Apprends chaque jour pour être une meilleure personne que la veille et pour te créer le futur que tu souhaites".   
+Le soir, il allait participer à son premier gala alors il est particulièrement de bonne humeur aujourd'hui... Il a acheté un livre le matin même "L'alchimiste" de Paulo Coehlo et avait fini de le dévorer en à peine 3 heures tellement il l'a passionné. Il en a conclut qu'il le donnerai tout à l'heure à Lily pour qu'elle puisse aussi profiter de ce chef d'oeuvre. Il prit le prochain bus pour rentrer à la résidence universitaire, les cours ne devraient pas tarder à se finir et ils pourront ainsi se préparer pour le gala du soir. Le contrat avait était défini avec Lily et les deux petites amies que les hommes et femmes se prépareront séparément et qu'ils se rejoindront directement devant la salle de gala.   
+   
+Le soir venu, quand les deux jeunes filles arrivèrent ensemble dans l'appartement de Lily, Baks prit ses habits et alla frapper chez Nicolas, lieu du rendez-vous établit pour les hommes. Nicolas ouvrit la porte, encore dans son jogging :   
+- Vas-y entre, Diego est déjà prêt à l'intérieur et roule sa clope.   
+Le fumeur, vêtu de son plus beau t-shirt et de son jean favori, salua Baks :   
+- Comment tu vas mon pote ? Pas trop stressé d'accompagner Lily au bal ?   
+- Non ça va, je me sens plutôt à l'aise pour l'instant.   
+Il enfila sa chemise verte avec le pantalon couleur crème que lui a choisi Lily hier et une paire de chaussures bleues. Nicolas quant à lui enfila son short rouge et sa chemise blanche que sa petite amie adore :   
+- Bon aller, on y va les gars. Diego, tu fumeras sur le chemin et les filles nous rejoindront une fois sur place.   
+Une quinzaine de minutes après l'arrivée des trois hommes, les jeunes femmes débarquèrent plus belles les unes que les autres. La petite amie de Nicolas est habillée d'une robe noire fleurie et de sandales blanches. Amina a sorti un débardeur blanc avec un jean slim troué et des baskets noires. Et enfin, Lily s'est vêtu d'une robe violette avec une barrette pour tenir ses longs cheveux roux et de légers escarpins à talons gris clairs.   
+   
+Chacun des hommes prit bras dessus, bras dessous sa cavalière et ils passèrent ainsi la porte menant dans la salle de bal. A l'entrée, passage obligatoire devant le photographe de la soirée. Les six s'alignèrent face à l'objectif et Nicolas, incapable de garder son sérieux pour une photo, fit sa plus belle grimace, suivit par sa compagne. Le reste du groupe remarqua les deux zouaves et les imitèrent pour directement détendre l'atmosphère avant d'entamer la soirée. Une fois l'oeuvre d'art capturé, le photographe leur déclara qu'ils pourront venir récupérer leur cliché le lendemain au bureau des élèves et que celui-ci sera aussi disponible sur le site web de l'Université accompagné de toutes les autres. Nicolas aperçu au loin qu'il restait encore des pâtisseries sur le buffet et il y courut avec sa petite amie. Diego glissa un petit mot dans l'oreille du photographe pour lui demander de ne pas publier leur photographie sur le web et partit ensuite avec Amina dehors pour qu'ils puissent fumer ensemble. Lily prit le pas et indiqua à Baks de la suivre. Elle passa sur le côté de la piste au milieu de la salle là où une trentaine de personnes dansait au rythme de la musique et elle se dirigea vers la scène où se trouvait les DJ. Le couple salua Enzo et Tanguy qui tenaient les platines en se relayant depuis déjà deux bonnes heures puis ils se dirigèrent vers le bar où ils commandèrent chacun un cocktail et trinquèrent à leur début de soirée.    
+   
+Lily regarda les personnes qui se trouvaient sur la piste de danse, il y avait de tous les genres, les couples qui dansaient ensemble, quelques-uns qui mangent ou boivent au milieu de la foule, les groupes en cercle, ceux déjà trop alcoolisés, complètement déchaînés et beaucoup de personnes qui les enviait de pouvoir danser aussi librement sans se soucier du regard des autres. Baks aperçu le regard de Lily et pointa son visage dans la même direction. Une voix s'activa dans sa tête :   
+- ***Eh Baks, laisse-moi prendre ta place un peu, s'il te plaît. J'ai envie de danser !   ***
+- Hmm... D'accord. Mais pas longtemps, ok ? J'ai envie de passer du temps avec Lily.   
+Sa tête tomba en avant, vacilla quelques instants puis il la redressa comme si de rien n'était et déclara :   
+- ***Ne t'inquiète pas, je te laisserai la place au meilleur moment...   ***
+- Qu'as-tu dis ? Questionna Lily en tournant la tête pour regarder son cavalier.   
+Il la saisit par la main et lui demanda en se levant de son siège :   
+- ***M'accorderiez-vous cette danse, jolie demoiselle ?   ***
+Elle hésita, et répondit doucement :   
+- D'accord, mais je ne danse pas très bien...   
+- Suis mes mouvements ! Dit-il en l'entraînant vers la piste.   
+Avec le manque de lumière et le bruit assourdissant permanent de la musique, il était impossible de remarquer que ce n'était plus les mêmes pupilles ni même la même voix qui avait invité la jeune fille à danser.   
+   
+Il l'entraîna sur la piste au milieu de la foule de personnes et la musique _Odd Chap - Midnight Sway débuta._   
+Ils commencèrent doucement sur une valse lente au milieu de la foule, préférant une danse un peu timide le temps de se mettre en jambe au rythme de la musique. La jeune fille qui était d'abord intimidée par le fait de danser, se laisse désormais bercer lentement. Puis le jeune homme prit doucement la mène et commença à accélérer le rythme de la danse avec la montée en puissance du rythme musical. Ils se lâchèrent ensuite et dansèrent un twist dynamiquement l'un en face de l'autre. Le danseur effectue des mouvements bien enchaînés et Lily le suit avec un léger décalage, ils cherchent un équilibre dans leur style en alternant les éloignements et les rapprochements. Ils se prirent par la main et commencèrent à faire des mouvements de plus en plus amples, écartant la foule autour d'eux au fur et à mesure de leur danse. Ils dansent ensemble puis s'éloignent l'instant d'après, restant l'un en face de l'autre, leur regard toujours plongé dans celui de l'autre. Ils jouent, s'aiment et se déteste, à la fois fusionnels et taquins comme chien et chat.    
+La foule s'éloigne de plus en plus d'eux, certains ne dansant plus et se contentant de les regarder. Certains les applaudissent, les encourageant dans leur performance.    
+Les deux danseurs se tournent autour de plus en plus, se rapproche et s'éloigne mais toujours en maintenant le contact physique de la main. La jeune femme est complètement prise dans le flot de la danse et ils firent quelques pas de tango endiablés, toujours plus dynamiques. L'alchimie dans leurs mouvements se fait ressentir et la complicité grandit. Le rythme de la musique ralentit doucement et le tempo de leur pas avec elle, passant sur une danse plus calme, le jeune homme la fait tournoyer. Durant le mouvement de la danseuse, il ferme les yeux et perd l'équilibre l'espace d'une milliseconde, ses pupilles redevenues vertes, il reprit ses appuis. La jeune femme termina son mouvement et ils firent quelques pas mains dans la mains, leur corps se rapprochant lentement.    
+La foule siffle autour d'eux mais rien ne pourrait distraire l'un du regard de l'autre. Ils prennent l'espace que le public leur accorde sur la piste en dansant dynamiquement l'un contre l'autre. L'arrivée de la fin de la musique se fait sentir et leur rythme ralentit, restant l'un contre l'autre à tournoyer lentement au centre de la piste. La musique s'arrêta, leur corps tout entier restèrent collés  ensemble au milieu des applaudissement.    
+Baks lève lentement sa main de la taille de Lily, caresse tendrement ses cheveux et appose sa paume sur la joue de sa partenaire. Leurs visages se rapprochent doucement et dans un doux mouvement de lèvres, ils s'embrassent.   
+   
+La foule en délire siffla et cria pour les deux danseurs. Pendant ce temps, Nicolas qui avait bien envie de danser également avec sa partenaire alla voir les deux DJ et commanda un slow pour la prochaine musique. Le jeune couple, confus, remercia timidement le public et la musique reprit. Deux autres couples passèrent rapidement au travers du public et se mirent à danser un slow directement à côté d'eux. C'était Diego et Nicolas avec leurs petites amies, qui venaient les soutenir pour ne pas qu'ils fuient en courant après leur magnifique performance. Malgré le fort caractère de Lily et Baks, ils sont tous deux assez gênés de ce qu'il vient de se passer devant autant de monde, mais ils n'avaient pas la moindre envie de se lâcher, et se retenaient ensemble de fuir grâce au soutien de leurs amis. Alors les trois couples rassemblés au centre de la piste, sur laquelle les différents groupes s'étaient reformés, dansèrent le slow ensemble.    
+   
+Juste à la fin du slow, un jeune homme en costard, cheveux noirs plaqués contre son crâne, vint demander les noms de Baks et Lily en leur priant de bien vouloir rester jusqu'à la fin de la soirée. Diego proposa à toute la bande d'aller prendre un peu l'air dehors. Une fois à l'air libre, Amina et son petit copain en profitèrent pour fumer leur cigarette. Ils discutèrent ensemble de la danse incroyable et complètement inattendue que leurs deux amis venaient de réaliser. Lily et Baks étaient assez distants l'un de l'autre, la confusion étant encore légèrement présente dans leur esprit. Après que les deux fumeurs eurent finis, Nicolas proposa à tous de ré-entrer pour continuer la suite de la soirée. Ils suivirent donc le jeune homme dans la salle puis s'installèrent dans une banquette qui venait de se libérer sous leurs yeux. Diego alla chercher quelques bouteilles au bar et ils commencèrent à boire un peu d'alcool en discutant et en rigolant sur tout et en faisant n'importe quoi. L'ambiance se détendit et les deux tourtereaux avec, ceux-ci en profitant pour se rapprocher finalement. La musique s'arrêta brusquement et le jeune homme aux cheveux noirs plaqués prit la parole au micro depuis la scène, accompagné par une jeune femme en robe noire :   
+- Bonsoir à tous ! J'espère que vous vous amusez bien ! Il est presque minuit et il est grand temps d'annoncer la reine et le roi de cette soirée ! La musique pourra reprendre après ça ! Après une discussion avec le jury constitué des organisateurs de ce gala ainsi que des présidents des différents bureaux des élèves, nous avons pu désigner des gagnants pour le Roi et la Reine qui se verront remettre une couronne chacun, remisent par nos très chers DJ de ce soir ! Peut-être est-ce vous qui êtes désigné ? Nous allons le découvrir dès maintenant ! La réponse se trouvant dans cette enveloppe scellée !   
+Il montra l'enveloppe scellé à la salle et la déchira pour en sortir le contenu. Il tendit le petit bout de papier à son accompagnatrice qui déclara au micro :   
+- Et les gagnants du titre du roi et de la reine de la soirée sont... Lily Parker et Baks Zelen ! Je les invite à nous rejoindre dès maintenant sur scène pour que l'on puisse leur remettre leur titre ! Bravo à eux ! Je veux un tonnerre d'applaudissement pour eux qui on su nous livrés une danse de couple magnifique !    
+Lily n'en croyait pas ses oreilles et ses yeux pétillaient. Sous les secouements de Diego pour la faire redescendre sur Terre, elle se leva brusquement en prenant la main de Baks et le tira avec un grand sourire. Ils passèrent au milieu de toute la salle. Plus d'une centaine de personnes qui les applaudissaient, criaient, et sifflaient. Juste avant de monter sur scène, elle se retourna et fit un câlin à son partenaire sans lui lâcher la main :   
+- Merci Baks !   
+Sans même qu'il n'ait le temps de répondre, elle l'entraîna sur la scène.   
+- Voici donc nos roi et reine et la soirée ! Qu'on les applaudisse bien fort, s'il vous plaît ! Gueula le présentateur en costard en entrechoquant lui-même ses mains.   
+Le couple fit face au public et Lily salua en s'incluant, imitée par Baks. Tanguy et Enzo qui apportaient les prix vinrent se mettre face à eux et apposèrent sur la tête de Baks la couronne du roi et la couronne de la reine pour Lily puis les deux DJ se retirèrent en les félicitant. Le photographe, positionné juste devant la scène, prit une batterie de clichés du couple royal. Ils remercièrent encore une fois le public puis ils descendirent de la scène. La musique reprit et la foule reforma son amas de groupes dansants ou non.    
+Baks et Lily sortirent de la salle, toujours en se tenant la main et s'embrassèrent une seconde fois. Après quelques instants où ils purent profiter du moment, de nouveaux applaudissements vinrent les interrompre. C'était leur quatre amis qui sortaient également pour les rejoindre, Nicolas gueula en rigolant :   
+- Wouuuh ! A quand un petit prince ou une petite princesse ?    
+Lily lui fit un doigt d'honneur et ils se mirent à rire. Ils partirent tous ensemble pour regagner la résidence universitaire, chaque couple retournant dans son appartement.
