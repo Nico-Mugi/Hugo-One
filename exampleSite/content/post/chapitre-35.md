@@ -10,7 +10,7 @@ description: "Médias"
 artwork: false
 ---
 _Lieu : France - Ville d'Annecy - Dans un 4x4 sur le parking de la résidence universitaire   
-Date : Samedi 27 avril 2012 - 08h07   _  
+Date : Samedi 27 avril 2012 - 08h07_     
      
 Cinq personnes sont assises dans un 4x4 noir blindé :   
 - Aller les gars, on descend, on va voir si la gamine est là et on l'interroge pour savoir où se cachent ses parents. Si on trouve Joshua Parker, on trouve Liam Shelton et on trouve Ice.   
