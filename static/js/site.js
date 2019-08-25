@@ -26,6 +26,11 @@ $(document).ready(function() {
       }, 300)
     }
   })  
+
+  $("#download").click(function() {
+    var zip = new JSZip();
+    console.log(zip);
+  })
 });
 
 function randomInt(a, b) {
@@ -42,5 +47,3 @@ function setSemanticUIColor() {
   }
 }
 
-var zip = new JSZip();
-console.log(zip);
