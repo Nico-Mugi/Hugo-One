@@ -11,7 +11,7 @@ artwork: false
 ---
 _Lieu : Océan Atlantique - Sur le navire principal - Chambre de Baks   
 Date : 23 mars 2012 - 8h02_
-
+   
 Baks et Liam avait rangé la pièce, plus rien ne traînait, le lit et la table étaient chacun sur un côté de la salle. Les deux hommes se sont positionnés au centre du ring, et Liam demanda :   
 - T'es sûr de toi ? C'est vraiment ce que tu veux ?   
 - Oui !    
@@ -20,7 +20,7 @@ Liam plie légèrement ses genoux et cours vers sa cible. Il lui décalque son p
 - Bien joué ça, Baks, continue ! Tu commences à t'amuser ? crie Liam en donnant un coup de pied droit dans la hanche de Baks.   
 Le jeune homme sourit, il ne cherche plus à réfléchir, juste à se battre. Il fonce sur son adversaire, tente un coup droit à la tête, Liam l'esquive, saisit son bras, le soulève sans aucune difficulté, le fait passer au dessus de sa tête et vient l'exploser au sol. Essoufflé, il se recule de quelques pas et balance :   
 - Alors, c'est déjà finit ?   
-Le corps qui gisait à terre se relève, dos à Liam et ricane, longtemps. Il pose ses mains son visage et son rire devient hystérique. Il pointe son visage vers le plafond en laissant ses mains retomber et s'arrête lentement de rire. Il tourne la tête légèrement jusqu'à ce que Liam puisse voir ses yeux. Ses pupilles sont noires. Il se jette sur Shelton. Liam saisit dans sa main droite le visage de son assaillant, plaque fortement son crâne contre le mur et crie :   
+Le corps qui gisait à terre se relève, dos à Liam et ricane, longtemps. Il pose ses mains son visage et son rire devient hystérique. Il pointe son visage vers le plafond en laissant ses mains retomber et s'arrête lentement de rire. Il tourne la tête légèrement jusqu'à ce que Liam puisse voir ses yeux. Ses iris sont noirs. Il se jette sur Shelton. Liam saisit dans sa main droite le visage de son assaillant, plaque fortement son crâne contre le mur et crie :   
 - Qui es-tu ?!   
 Mais la couleur noir dans ses yeux s'était déjà évaporés. Liam relâcha Baks qui tomba inconscient par terre.    
    
@@ -30,7 +30,7 @@ Baks se réveilla une demi-heure plus tard, et demanda à Liam, qui était assit
 - On se battait, je trouvais ça super palpitant, tu as esquivé mon coup de poing, tu m'as balancé en l'air avec et juste après je n'ai plus de souvenirs. Je me suis évanoui à cause du choc ?   
 - Tu ne te souviens vraiment de rien après ça ?   
 - Non, pourquoi ?   
-- Tu t'es relevé en ricanant et tes pupilles sont devenus noires. Elles dégageaient une telle envie meurtrière que si tu avais été plus fort que moi physiquement, je serais mort.   
+- Tu t'es relevé en ricanant et tes iris sont devenus noirs. Elles dégageaient une telle envie meurtrière que si tu avais été plus fort que moi physiquement, je serais mort.   
 - Quoi ? Comment c'est possible ? Je n'ai pas les yeux verts ?   
 - Si, ils sont redevenus verts. Pour t'arrêter, j'ai plaqué ton crâne contre le mur et ces yeux sont partis juste après. Tu m'avais parlé il y a longtemps d'une voix dans ta tête qui t'avais appris à parler notre langue. Tu peux m'en dire plus sur elle ?   
 - Je vais te dire ce que je peux sur elle, si ça t'intéresse.   

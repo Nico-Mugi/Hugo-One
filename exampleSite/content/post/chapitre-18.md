@@ -10,9 +10,9 @@ description: "Effet"
 artwork: false
 ---
 _Lieu : Océan Atlantique - Sur le navire principal - Laboratoire du professeur Dumas   
-Date : 15 avril 2012 - 12h56_
-
-Le liquide atteint le cœur de Baks, une aura bleue, comme du brouillard, commence à se dégager du haut au dos de celui-ci. Dumas se retourna et se dirigea vers son bureau, s'assit sur son tabouret et ouvrit un dossier complet sur Baks, avec de nombreuses photos de lui et des annotations. Quelques secondes plus tard, il entendit un léger bruit derrière lui et il se tourna brusquement vers le corps de Baks. Il est debout. Des yeux aux pupilles cyans grands ouverts. Le scientifique prit peur et tomba à la renverse de son tabouret. Les yeux cyans remplis d'envie meurtrière le suivent du regard, il cria complètement paniqué :   
+Date : 15 avril 2012 - 12h56_   
+    
+Le liquide atteint le cœur de Baks, une aura bleue, comme du brouillard, commence à se dégager du haut au dos de celui-ci. Dumas se retourna et se dirigea vers son bureau, s'assit sur son tabouret et ouvrit un dossier complet sur Baks, avec de nombreuses photos de lui et des annotations. Quelques secondes plus tard, il entendit un léger bruit derrière lui et il se tourna brusquement vers le corps de Baks. Il est debout. Des yeux aux iris cyans grands ouverts. Le scientifique prit peur et tomba à la renverse de son tabouret. Les yeux cyans remplis d'envie meurtrière le suivent du regard, il cria complètement paniqué :   
 - Ceci n'est pas normal ! Tu n'es pas censé être éveillé ! Ce n'était pas censé être assez fort pour te réveiller ! Oh putain de merde !    
 Il regardait, terrorisé, son cobaye dans les yeux. Celui-ci n'a plus conscience de lui-même, il ressemble plus à un lion affamé qu'à un humain. Il se dirige maintenant vers le scientifique, dans un dernier réflexe, celui-ci se leva et pressa un bouton rouge situé à côté de son bureau, une sonnette d'alarme retentit dans tout le navire. Le monstre posa sa main gauche sur le visage du terrorisé, l'aura bleue se trouvait maintenant également autour de sa main. En un clin d'œil le crâne entier de Dumas se retrouva emprisonné sous une épaisse couche de glace qui formait un cube, la peur de l'homme était imprimée à jamais sur son visage. Le lion a attrapé sa proie et s'apprête à l'achever. Il créé une lance de glace dans sa main droite et transperce le cœur du scientifique.   
    
