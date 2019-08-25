@@ -28,7 +28,7 @@ $(document).ready(function() {
   })  
 
   $("#download").click(function() {
-    var zip = new JSZip();
+    var zip = require("JSZip/dist/jszip.min.js").JSZip();
     console.log("coucou" + zip);
   })
 });
