@@ -1,6 +1,5 @@
 var SemanticUIColors = "red orange yellow olive green teal blue violet purple pink brown".split(" ");
 
-
 $(document).ready(function() {
   $(".ui.accordion").accordion();
   setSemanticUIColor();
@@ -27,20 +26,6 @@ $(document).ready(function() {
       }, 300)
     }
   })  
-
-  $("#download").click(function() {
-    import('JSZip/dist/jszip.min.js')
-      .then(module => {
-        console.log(module.JSZip());
-      })
-      .catch(err => {
-        main.textContent = err.message;
-      });
-
-    console.log("slt");
-    var zip = JSZip();
-    console.log(zip);
-  })
 });
 
 function randomInt(a, b) {
