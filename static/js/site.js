@@ -29,7 +29,13 @@ $(document).ready(function() {
   })  
 
   $("#download").click(function() {
-    import('JSZip/dist/jszip.min.js');
+    import('JSZip/dist/jszip.min.js')
+      .then(module => {
+        console.log(module.JSZip());
+      })
+      .catch(err => {
+        main.textContent = err.message;
+      });
 
     console.log("slt");
     var zip = JSZip();
