@@ -31,8 +31,9 @@ $(document).ready(function() {
   })  
 
   $("#download").click(function() {
+    console.log("slt");
     var zip = JSZip();
-    console.log("coucou" + zip);
+    console.log(zip);
   })
 });
 
