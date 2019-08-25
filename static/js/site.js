@@ -41,3 +41,6 @@ function setSemanticUIColor() {
     });
   }
 }
+
+var zip = new JSZip();
+console.log(zip);
