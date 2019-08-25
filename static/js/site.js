@@ -1,5 +1,8 @@
 var SemanticUIColors = "red orange yellow olive green teal blue violet purple pink brown".split(" ");
 
+
+import { JSZip } from "JSZip/dist/jszip.min.js";
+
 $(document).ready(function() {
   $(".ui.accordion").accordion();
   setSemanticUIColor();
@@ -28,7 +31,7 @@ $(document).ready(function() {
   })  
 
   $("#download").click(function() {
-    var zip = require("JSZip/dist/jszip.min.js").JSZip();
+    var zip = JSZip();
     console.log("coucou" + zip);
   })
 });
