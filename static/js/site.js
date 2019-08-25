@@ -29,7 +29,7 @@ $(document).ready(function() {
 
   $("#download").click(function() {
     var zip = new JSZip();
-    console.log(zip);
+    console.log("coucou" + zip);
   })
 });
 
