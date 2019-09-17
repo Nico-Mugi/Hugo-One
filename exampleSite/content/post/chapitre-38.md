@@ -1,16 +1,56 @@
 ---
 title: Chapitre 38
-date: 2019-02-18T17:13:52+01:00
-lastmod: 2019-02-18T17:13:52+01:00
-cover: "/img/default1.jpg"
-pdf: ""
-draft: true
+date: 2019-09-17T07:41:21+02:00
+lastmod: 2019-09-17T07:41:21+02:00
+cover: "/img/38.jpg"
+pdf: "38"
+draft: false
 categories: "Acte-2"
-description: TitreChap
-artwork: false
-titleArt: Nom
-artist: Nom
-urlImg : ["https", "www.artwork.com/"]
+description: "Ice vs Thunder"
+artwork: true
+titleArt: "I am the Lightning" 
+artist: "Max Duran" 
+urlImg: ["https", "www.artstation.com/artwork/DJKnA"]
 ---
-_Lieu :   
-Date : _
+_Lieu : France - Ville d'Annecy - Sur une place du centre-ville - Position de Baks Zelen   
+Date : Samedi 27 avril 2012 - 10h02_
+
+Thunder dégaina son arme entièrement faite en argent, c'était une épée à double tranchant composée d'une lame démesurée presque aussi grande que lui et d'une garde perpendiculaire d'une trentaine de centimètres. La poignée était assez grande pour assurer une prise à deux mains mais visiblement la montagne de muscles qui la tenait n'avait pas besoin d'autant pour pouvoir l'agiter avec facilité. Il faisait face à Baks et lui demanda :   
+- Es-tu prêt à mourir, gamin ? Oh, je viens d'avoir une idée de comment t’exécuter de la meilleure des façons ! Une magnifique et succulente agonie lente et douloureuse tout droit vers la mort !   
+Une voix dans la tête du jeune homme résonna :   
+- **LAISSE MOI LUI FAIRE LA PEAU !!! LAISSE MOI LE CONTRÔLE !!! JE VEUX LUI FRACASSER LE CRANE !!! LUI OUVRIR LE VENTRE ET MASSACRER CHACUN DE SES ORGANES !!! JE VEUX LUI FAIRE PISSER LE SANG JUSQU’À LA MORT !!! LAISSE MOI M'AMUSER !!!**   
+- Ta gueule ! Cria Baks à haute voix.   
+Le jeune homme secoua sa tête et tout en essayant d'ignorer cette voix qui criait dans son esprit, il créa sa faux de glace avec un manche plus épais qu'il ne l'avait fabriqué la dernière fois et resta en garde. Thunder lança sur son adversaire sa grande épée avec une facilité déconcertante mais la trajectoire était légèrement bombée et celle-ci atterrit plantée dans le mur derrière Ice sans que celui-ci n'ait eu besoin de bouger d'un pouce. Il pointa deux doigts en direction de son adversaire et Baks, s'attendant à une attaque similaire au lance-flamme de Liam, se décala immédiatement. Sans qu'il ne change la direction vers laquelle il pointait, Thunder créa un éclair partant de sa main jusqu'à son épée en passant par Ice, l'électrocutant et le faisant tomber à terre. Le tonnerre retentit dans la totalité de la ville. Baks tomba à terre et lâchant sa faux, immobilisé, plus aucun de ses muscles ne répondait et il avait du mal à réfléchir.   
+- **Tu vas mourir. Laisse moi m'en occuper je te dis !**   
+Thunder s'était rapproché et shoota avec son pied de toutes ses forces dans l'estomac de son adversaire qui gisait à terre, lui coupant le souffle et l'envoyant tout droit se fracasser contre le mur de l'arène. Il se rapprocha encore et le saisit cette fois par le cou mais Baks était comme une marionnette  désarticulée, il était à peine conscient de ce qu'il se passait. L'homme lui dit :   
+- Bonne nuit, à tout de suite quand tu auras un peu plus de répondant.   
+La main qui te tenait le jeune à la gorge créa une grosse décharge électrique partout dans le corps de Baks, crispant chacun de ses muscles et lui brûlant les organes et la peau. Thunder lâcha le corps à la frontière de la mort qu'il tenait, alla récupérer son épée dans le mur et prit de la distance.   
+   
+Lily se réveilla, elle était assise sur un plot en pierre et était tenu par les subalternes de Thunder juste à côté de l'arène. Elle tenta de se débattre mais un des hommes lui frappa dans le ventre, la faisant étouffer. Elle aperçut Baks inconscient dans l'arène et elle se remit à se débattre autant qu'elle pouvait.    
+Joshua et Alice aperçurent leur fille à la télévision, la mère en détresse se mit à pleurer ne sachant que faire et le père révolté gueula de toutes ses forces :   
+- Merde ! Merde ! Merde ! Merde ! Putain pourquoi cet enfoiré de Liam nous a dit de partir sans Lily ? Enfoiré ! Il voulait la sacrifier ! Cria-t-il en explosant son poing contre le mur.   
+Un bruit strident se rapprochait de la zone de chaos. Quelques instants après, au coin de la rue, une moto-cross débarqua en dérapant avec deux motards dessus. Malgré leurs casques, la jeune fille reconnut ses amis Nicolas et Diego. Ils ré-accélérèrent et se dirigèrent à pleine vitesse en direction de Lily et des trois hommes. Ces derniers furent distraits par la moto une fraction de seconde, suffisant pour la jeune fille pour se dégager de leur emprise et asséner un coup de pied dans les parties génitales de l'un d'eux. La moto se rapprochait toujours à pleine vitesse et Nicolas éclata le crâne d'un autre des trois hommes en le frappant avec un extincteur. Lily mit un coup de genou dans le nez de celui qui s'était abaissé suite au coup dans ses parties. Et en passant, Diego se jeta sur le troisième pour essayer de l'immobiliser. La moto fit demi-tour sur le champ et revint faucher les jambes de ce dernier. Nicolas lança son arme à son ami et celui-ci mis un gros coup d'extincteur dans la tête de l'homme dont Lily s'était occupée.   
+Joshua vu la scène retransmise en direct à la télévision et déclara :   
+- Putain, qu'est-ce que je vous aime vous deux !   
+Sans enlever leur casque pour limiter les chances d'être reconnus, Nicolas et Diego saluèrent Lily qui leur dit en les enlaçant :   
+- Merci les gars, vous êtes géniaux.   
+- Ouais, ouais, je sais, répondit Nicolas en se marrant.   
+- On est dans la merde. On est passé in-extremis mais l'armée a encerclé entièrement la zone. L'ordre d'évacuation a été donné et le centre-ville est devenu un véritable no-man's-land. Ça ne m'étonnerait pas qu'on se prenne une bombe nucléaire en pleine gueule dans peu de temps, qu'elle vienne de notre armée ou non, déclara Diego en prenant les armes de poing des trois hommes et les répartissant dans leur groupe. Gardez-ça précieusement et ne les utilisez qu'en cas d'extrême urgence.   
+- De ce que j'ai compris du message de Liam à la télévision, ce type là qui est avec Baks dans l'arène bosse avec le gouvernement américain et il a l'air sacrément puissant. Tant qu'il est en vie, ça m'étonnerait qu'on soit en danger d'une éventuelle bombe, répondit Lily.   
+- C'est un Element, c'est en effet mieux pour eux de garder une telle arme, rajouta Nicolas. Mais je préférerai quand même que ça soit Baks qui s'en sorte, pour qu'il puisse nous permettre de nous enfuir du centre-ville, même si ça à l'air plutôt mal engagé...   
+   
+Le jeune homme dans l'arène ré-ouvrit les yeux. Ses iris sont devenues bleues claires. Il pointa son regard vers Thunder. En un éclair, il créa des dizaines de cylindres de glaces qui partirent de son dos en déchirant son t-shirt et qui se jetèrent sur son adversaire tel une nuée de serpents. En un seul grand mouvement d'épée, Thunder les brisa tous sans exception en renvoyant sur Ice certains morceaux, celui-ci créant un petit mur pour en protéger son corps allongé. Grâce à sa glace, parce qu'aucun de ses muscles n'étaient utilisables, il se redressa face à son adversaire qui déclara :   
+- Le Rampage, comme j'aime à l'appeler, un Element atteint généralement ce point à deux moment, à l'acquisition du pouvoir, et quand il est proche de la mort. C'est un état réputé inarrêtable, où le sujet est dénué de toute émotion, de toute pitié et va jusqu'à en perdre la parole au profit de l'aggresivité. Dommage que tu sois aussi faible... Mais ne t'inquiète pas, je vais bientôt te prendre ce pouvoir et ainsi libérer sa véritable puissance !   
+Sans un mot ni même un mouvement, Ice créa un tsunami de givre gigantesque qui dépassait les bâtiments de six étages effleurant l'hélicoptère de journaliste qui tournait autour de la scène. La vague engloutit sur son passage Thunder, détruisit le mur d'enceinte de l'arène et les trois pâtés d'immeuble qui se trouvait derrière celui-ci.    
+   
+Quelques dizaines de secondes après l'impact, la fumée commença à se dissiper, laissant apparaître une grotte à l'intérieur de la montagne de glace. Thunder se tenait debout à l'intérieur, sa lame face à lui. Ses iris étaient devenues aussi jaune que le soleil. Il baissa la garde de sa lame et déclara :    
+- Tu ne le savais pas ? La foudre peut générer une chaleur démentielle, jusqu'à vingt fois supérieures aux plus brûlantes des flammes. Il suffit tout simplement de passer la charge négative de la foudre en charge positive, beaucoup plus puissante et destructrice... Mais pour ça, je devais passer en Rampage, enfin... Presque. Parce qu'il est également possible, quand on atteint un certain niveau de maîtrise, de passer dans un état proche du Rampage, sans perdre le contrôle, tout en libérant la quasi-totalité du potentiel. Cet état entre la conscience et la démence est particulièrement dur à maintenir, surtout contre un adversaire de ton acabit, parce qu'il est nécessaire de libérer des ensembles d'émotions très puissantes comme par exemple la colère ou le désespoir pour générer la rage chez soi. Comment te dire que la seule raison pour laquelle tu me mets en colère est le fait que tu sois aussi faible avec un pouvoir aussi puissant que le tien, pas de quoi générer une véritable rage comme si tu avais été un adversaire de taille.   
+   
+Ice n'avait pas une seule réaction, le regard vide, plus aucune émotion ne s'affichait sur son visage, plus aucun de ses muscles ne répondait, il était devenu un cadavre qui se tenait droit uniquement grâce à l'ossature de glace qu'il avait construit autour de son corps. Ses chances de survie baissent un peu plus chaque seconde qui s'écoule, son cœur battant dans un rythme anarchique. Voulant emporter avec lui dans la tombe son adversaire, Ice se prépara à lancer une ultime attaque, son baroud d'honneur. Chaque parcelle de son corps s'activa et Ice ravagea la moitié de la ville qui se trouvait face à lui, créant un iceberg qui se propageait à une vitesse folle, allant jusqu'à congeler le grand lac à plusieurs kilomètres de là. La ville était devenue en un instant une montagne de glace aussi imposante que les plus hauts sommets alentours. La totalité de son corps était recouvert d'une fine pellicule de glace due à son attaque meurtrière. Mais il était toujours au bord du précipice de la mort et dans un dernier ressort pour tenter de préserver sa vie, il ferma ses yeux et se cryogénisa lui-même à l'intérieur d'un gros bloc constituée de la glace la plus froide et la plus résistante possible.   
+   
+Il commença à rentrer dans un sommeil profond quand une forte douleur le lança dans le poumon gauche et le réveilla instantanément. Il rouvrit les yeux au milieu de sa glace et vit une lame le traversant de part en part. C'était la lame de Thunder qui était sortie à grande vitesse telle une lance de la montagne glacée et qui avait percé son bloc de survie comme s'il était constitué de beurre. Le cube se fendit en deux et Ice tomba à genoux, l'épée de Thunder enfoncée dans son torse. Celui-ci sortit de sa grotte dans la montagne qu'il avait créé pour éviter, de la même façon que la première fois, l'attaque de Ice. Il s'approcha face à sa victime et déclara, déçu :   
+- Merde, j'ai loupé le cœur de si peu ! Bon du coup, pour te faire sentir une dernière fois le goût de la défaite avant ta mort, voici un petit cadeau !   
+L'homme aux yeux jaune vif saisit la garde de son épée et la laissa enfoncée dans le torse de son adversaire mourant. Une étincelle passa au dessus du sourire de psychopathe qu'arborait Thunder puis il envoya une décharge démentielle à Baks, ses longs cheveux s’irisèrent sur sa tête. L'électricité qui le parcourait avait une si haute intensité que le champ électrique était visible autour de lui, il criait à la mort, une véritable torture, bien pire qu'une exécution sur une chaise électrique. La décharge de Thunder ne s'arrêtait pas et Baks convulsait dans tous les sens en criant si fort qu'on l'entendait dans toute la ville. Après bien trois bonnes minutes de décharge, la tête du torturé tomba en avant et les cris cessèrent.    
+Thunder stoppa sa boucherie sans lâcher son épée et déclara en rigolant :   
+- Il a enfin eu son compte cet enfoiré !   
+Son grand sourire disparu soudain quand le corps inanimé agenouillé face à lui, le saisit au poignet.
