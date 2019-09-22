@@ -2,12 +2,15 @@
 title: Chapitre 36
 date: 2019-08-21T10:21:50+02:00
 lastmod: 2019-08-21T10:21:50+02:00
-cover: "/img/default1.jpg"
+cover: "/img/36.jpg"
 pdf: "36"
 draft: false
 categories: "Acte-2"
 description: "Fire vs Wind"
-artwork: false
+artwork: true
+titleArt: "Peaceful Sound" 
+artist: "Yuumei" 
+urlImg: ["https", "www.deviantart.com/yuumei/art/Peaceful-Sound-802641412"]
 ---
 _Lieu : Japon - Forêt proche de la ville de Tsukuba - Position de Liam Shelton   
 Date : Samedi 27 avril 2012 - 09h58 [Heure française] - 16h58 [Heure locale]_  
