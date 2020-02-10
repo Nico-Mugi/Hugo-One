@@ -9,17 +9,17 @@ categories: "Acte-2"
 description: "Aveux"
 artwork: false
 ---
-_Lieu : France - Ville d'Annecy - Appartement d'Angel   
+_Lieu : France - Ville d'Annecy - Appartement de Lily   
 Date : 21 avril 2012 - 18h04_
 
-Arrivés à l'appartement, Baks avait encore de la glace sur la peau, Angel lui recommanda d'aller se laver à l'eau chaude, ce qu'il fit expressément. En sortant, il vit Angel jouer avec le Rubik's cube sur son siège de bureau, il s'assit sur une des chaises de la table à manger face à elle. Il dit :   
+Arrivés à l'appartement, Baks avait encore de la glace sur la peau, Lily lui recommanda d'aller se laver à l'eau chaude, ce qu'il fit expressément. En sortant, il vit Lily jouer avec le Rubik's cube sur son siège de bureau, il s'assit sur une des chaises de la table à manger face à elle. Il dit :   
 - Déjà, je tiens à m'excuser de t'avoir menti sur moi. C'est très difficile pour moi d'en parler étant donné que je ne sais moi-même pas de quoi il s'agit. Mais pour que tu en sois au même point que moi, je vais te raconter, si tu me le permets, mon histoire, ma vraie histoire.   
-Angel posa son jeu et plongea son regard dans celui de Baks :   
+Lily posa son jeu et plongea son regard dans celui de Baks :   
 - Vas-y, je t'en prie.   
 Celui-ci raconta tout ce qu'il savait sur lui-même, le fait qu'il ait été enfermé toute sa vie sans en connaître la raison, Liam Shelton et tout ce qu'il a fait pour lui, en passant par les voix dans sa tête, les flashs qu'il a eu à son réveil et sans oublier le fait qu'il n'a aucune idée de ce qu'est cette glace ni pourquoi il est capable d'en créer :    
 - Je pense que pour trouver ma réponse, il faut que je revois Liam par n'importe quel moyen, je suis sûr qu'il est vivant, quelque part, et pour cela je pense que je vais avoir besoin de ton aide... J'aimerais rencontrer ton père.   
 - Mais il travaille pour le gouvernement étasunien ! Si tu es recherché...   
-Baks coupa Angel et déclara :   
+Baks coupa Lily et déclara :   
 - Je suis prêt à prendre ce risque, s'il connait vraiment Liam, c'est mon unique chance de pouvoir comprendre ce qu'il se passe. Je suis désolé de devoir encore te demander un service après tout ce que je t'ai fait.   
 - Tu n'as pas à t'excuser, n'importe qui aurait menti dans ta situation, tu ne peux te permettre de faire confiance à personne, je te remercie néanmoins de m'avoir dit la vérité. Demain je dois avoir un repas chez mes parents, mon père est encore en vacances, donc il sera là. Je demanderai si je peux t'inviter.  
      
